@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 79889,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Microsoft is holding a 'future of work' AI event on March 16th",
+            "description": "Now that Microsoft has outlined how AI will reshape Bing search, it's ready to detail how the technology will influence your workplace. The company is holding a \"Future of Work with AI\" event on March 16th at 11AM Eastern. While Microsoft isn't saying much ab\u2026",
+            "url": "https://www.engadget.com/microsoft-is-holding-a-future-of-work-ai-event-on-march-16th-165818278.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/QbVxZS9jfa.Qr3ISttCxKw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/447a3980-a74b-11ed-bb6f-3b9437c7b4ea.cf.jpg",
+            "publishedAt": "2023-03-06T16:58:18Z",
+            "content": "Now that Microsoft has outlined how AI will reshape Bing search, it's ready to detail how the technology will influence your workplace. The company is holding a \"Future of Work with AI\" event on Marc\u2026 [+1707 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Auerbach",
+            "title": "AI Loves\u2014and Loathes\u2014Language",
+            "description": "Deep learning networks may look like brains, but that doesn\u2019t mean they can think like humans. On the ever-expanding meganet, that\u2019s a problem.",
+            "url": "https://www.wired.com/story/language-is-one-of-ais-main-sources-of-data-and-greatest-foils/",
+            "urlToImage": "https://media.wired.com/photos/641a4c4e5842f211652a9fc7/191:100/w_1280,c_limit/ideas_ai_language_learning.jpg",
+            "publishedAt": "2023-03-22T13:00:00Z",
+            "content": "Courtesy of Pete Garceau/PublicAffairs\r\n\u00a0Buy This Book At:\r\nIf you buy something using links in our stories, we may earn a commission. This helps support our journalism.Learn more.\r\nA few years ago, \u2026 [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "NVIDIA's big AI moment is here",
+            "description": "When NVIDIA's founder and CEO Jensen Huang waxed poetic about artificial intelligence in the past, it mostly felt like marketing bluster, the sort of lofty rhetoric we've come to expect from an executive with a never-ending supply of leather jackets. But this\u2026",
+            "url": "https://www.engadget.com/nvidia-gtc-ai-dgx-cloud-161517378.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/klcv7eJ3ip6cuTg8kpSLvQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/de461e40-c7a2-11ed-877b-605aefff9d01.cf.jpg",
+            "publishedAt": "2023-03-21T15:35:39Z",
+            "content": "When NVIDIA's founder and CEO Jensen Huang waxed poetic about artificial intelligence in the past, it mostly felt like marketing bluster, the sort of lofty rhetoric we've come to expect from an execu\u2026 [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Meredith Broussard",
+            "title": "An AI Told Me I Had Cancer",
+            "description": "Why was an AI looking through my medical records and how did it work? I decided to find out.",
+            "url": "https://www.wired.com/story/artificial-intelligence-cancer-detection/",
+            "urlToImage": "https://media.wired.com/photos/6411095dfcebf513b04152fb/191:100/w_1280,c_limit/ideas_ai_healthcare_cancer.jpg",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "I realized that I had imagined the AI would take in my entire chart and make a diagnosis, possibly with some dramatic gradually-appearing images like the scenes on Greys Anatomy where they discover a\u2026 [+3261 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Krzysztof Pelc",
+            "title": "AI Will Make Human Art More Valuable",
+            "description": "If history is any indication, society will continue to favor the artistic output of people.",
+            "url": "https://www.wired.com/story/art-artificial-intelligence-history/",
+            "urlToImage": "https://media.wired.com/photos/641266a357db3e0d5a2fa8ea/191:100/w_1280,c_limit/ideas_art_ai_human_history.jpg",
+            "publishedAt": "2023-03-16T13:00:00Z",
+            "content": "The advent of AI models will only accelerate this trend. We will place ever more value on works that seem made for their own sake, rather than ours. Thats bad news for the AI robots, which are explic\u2026 [+3779 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sean Buckley",
+            "title": "Roblox launches its first generative AI game creation tools",
+            "description": "Last month, Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user o\u2026",
+            "url": "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg",
+            "publishedAt": "2023-03-21T19:20:43Z",
+            "content": "Last month, Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. No\u2026 [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "Grammarly expands beyond proofreading with AI-powered writing",
+            "description": "Grammarly announced today that it\u2019s (unsurprisingly)\u00a0diving into the generative AI fray. GrammarlyGo is an upcoming set of auto-composition features to help the AI proofreading software keep up with the many companies adding the ChatGPT API (or different gene\u2026",
+            "url": "https://www.engadget.com/grammarly-expands-beyond-proofreading-with-ai-powered-writing-140052437.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/vCfsKq4Rj7BGWasHcm3WHg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/13aeed20-ba04-11ed-bd7f-9f6245dd85c9.cf.jpg",
+            "publishedAt": "2023-03-09T14:00:52Z",
+            "content": "Grammarly announced today that its (unsurprisingly)\u00a0diving into the generative AI fray. GrammarlyGo is an upcoming set of auto-composition features to help the AI proofreading software keep up with t\u2026 [+1726 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "Snapchat adds OpenAI-powered chatbot and proactively apologizes for what it might say",
+            "description": "Snap announced today that it\u2019s adding an OpenAI chatbot (similar to ChatGPT) to Snapchat. \u201cMy AI\u201d is an experimental feature initially available for $3.99-per-month Snapchat+ subscribers, although the company reportedly wants to expand it to all users eventua\u2026",
+            "url": "https://www.engadget.com/snapchat-adds-openai-powered-chatbot-and-proactively-apologizes-for-what-it-might-say-180507261.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/lTIFG7Kf0GFPQHx7eJRZ1Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/73fb7250-b6c3-11ed-bf93-e5bff825d4ff.cf.jpg",
+            "publishedAt": "2023-02-27T18:05:07Z",
+            "content": "Snap announced today that its adding an OpenAI chatbot (similar to ChatGPT) to Snapchat. My AI is an experimental feature initially available for $3.99-per-month Snapchat+ subscribers, although the c\u2026 [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "Engadget Podcast: Why did Silicon Valley Bank fail so hard?",
+            "description": "The downfall of Silicon Valley bank affects the entire technology industry. This week, we chat with Alex Wilhelm, editor in chief at TechCrunch+, about why SVB failed and what it means for the broader ecosystem. Where were the regulations? And why were VCs so\u2026",
+            "url": "https://www.engadget.com/engadget-podcast-elon-musk-neuralink-human-trials-denied-123014095.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
+            "publishedAt": "2023-03-17T12:30:14Z",
+            "content": "The downfall of Silicon Valley bank affects the entire technology industry. This week, we chat with Alex Wilhelm, editor in chief at TechCrunch+, about why SVB failed and what it means for the broade\u2026 [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides",
+            "description": "Google has been scrambling to catch up to to OpenAI for months, ever since the latter dropped its conversational bot, ChatGPT, and took the generative AI industry by storm. Google's first attempted response with the release of its Bard AI (which immediately m\u2026",
+            "url": "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg",
+            "publishedAt": "2023-03-14T16:17:11Z",
+            "content": "Google has been scrambling to catch up to to OpenAI for months, ever since the latter dropped its conversational bot, ChatGPT, and took the generative AI industry by storm. Google's first attempted r\u2026 [+1888 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chris Stokel-Walker",
+            "title": "ChatGPT's API Is Here. Let the AI Gold Rush Begin",
+            "description": "Businesses can now get paid for services built on the large language model, meaning chatbots are going to start appearing everywhere.",
+            "url": "https://www.wired.com/story/chatgpt-api-ai-gold-rush/",
+            "urlToImage": "https://media.wired.com/photos/6402a02a95705afb854fd892/191:100/w_1280,c_limit/business_chatgpt_api_open.jpg",
+            "publishedAt": "2023-03-06T12:00:00Z",
+            "content": "When OpenAI, the San Francisco company developing artificial intelligence tools, announced the release of ChatGPT in November 2022, former Facebook and Oculus employee Daniel Habib moved quickly.\r\nWi\u2026 [+3727 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Bedingfield",
+            "title": "Musicians, Machines, and the AI-Powered Future of Sound",
+            "description": "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively.",
+            "url": "https://www.wired.com/story/generative-ai-music/",
+            "urlToImage": "https://media.wired.com/photos/64125850412651fa6ee1479c/191:100/w_1280,c_limit/AI-Powered-Future-of-Sound-Culture-1439768811.jpg",
+            "publishedAt": "2023-03-16T11:00:00Z",
+            "content": "Musicians have also reacted to the general unease generated by ChatGPT and Bings AI chatbot. Bogdan Raczynski, reading transcripts of the chatbots viral discussions with humans, says over email that \u2026 [+3082 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Vivian Lam",
+            "title": "Human Art Already Has So Much In Common With AI",
+            "description": "The central question raised by large language models isn\u2019t whether AI can replace human creativity, but whether people value the artist.",
+            "url": "https://www.wired.com/story/generative-art-algorithms-creativity/",
+            "urlToImage": "https://media.wired.com/photos/63f7ff97d35154c5a1727fde/191:100/w_1280,c_limit/ideas_ai_art_algorithmic_creativity.jpg",
+            "publishedAt": "2023-02-24T13:00:00Z",
+            "content": "Despite being human-made, human-taught, and human-promoted, its easy to criticize AI for being fundamentally inhuman. To claim that AI models like ChatGPT and DALL-E will replace art created by peopl\u2026 [+3105 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED Staff",
+            "title": "The Good and Bad of ChatGPT in Schools",
+            "description": "This week, WIRED and NPR team up to cover the debate about students and teachers using generative AI in the classroom.",
+            "url": "https://www.wired.com/story/gadget-lab-podcast-589/",
+            "urlToImage": "https://media.wired.com/photos/640904ded3cc29b468bd4973/191:100/w_1280,c_limit/The-Good-and-Bad-of-ChatGPT-in-Schools-Gear-GettyImages-1256969659.jpg",
+            "publishedAt": "2023-03-09T13:00:00Z",
+            "content": "I think the two other points I wanted to make about this, because I think we want more people to use these tools because we want to demystify them and we want the tools to be more responsible, the ma\u2026 [+3936 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft announces Copilot: the AI-powered future of Office documents",
+            "description": "Microsoft has unveiled Copilot, a new AI assistant that helps Office users create documents and more. Copilot will be available across Microsoft 365 apps and services.",
+            "url": "https://www.theverge.com/2023/3/16/23642833/microsoft-365-ai-copilot-word-outlook-teams",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/MCWRZPfJKetruQ4U2vUA0NJDWho=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24512917/omb_hero_wholenewwaytowork_web.jpeg",
+            "publishedAt": "2023-03-16T15:06:01Z",
+            "content": "Microsoft announces Copilot: the AI-powered future of Office documents\r\nMicrosoft announces Copilot: the AI-powered future of Office documents\r\n / Copilot is a modern AI assistant that will help Micr\u2026 [+1928 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Meta is working on 'AI personas' for Instagram, Messenger and WhatsApp",
+            "description": "Meta is joining Google, Microsoft and other big names in throwing its weight behind ChatGPT-style AI. Mark Zuckerberg has revealed that his company plans to develop \"AI personas\" in the long term. It's currently investigating helpers for multiple media format\u2026",
+            "url": "https://www.engadget.com/meta-is-working-on-ai-personas-for-instagram-messenger-and-whatsapp-223316961.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wpDlJn3QjslGUTb8.bbDpA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-05/324a95c0-e207-11ec-baf7-eb2eb60fa42d.cf.jpg",
+            "publishedAt": "2023-02-27T22:33:16Z",
+            "content": "Meta is joining Google, Microsoft and other big names in throwing its weight behind ChatGPT-style AI. Mark Zuckerberg has revealed that his company plans to develop \"AI personas\" in the long term. It\u2026 [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sean Buckley",
+            "title": "Ford's new AI subsidiary wants to create hands-free, eyes-off driver assist systems",
+            "description": "Hate sitting in rush hour traffic? Ford knows you do \u2014 and the company is doubling down on developing automated driving technology to help make traffic a little more tolerable. Today, Ford announced the creation of Latitude AI, a wholly owned subsidiary that \u2026",
+            "url": "https://www.engadget.com/fords-new-ai-subsidiary-wants-to-create-hands-free-eyes-off-driver-assist-systems-195058321.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/jLYmMQlxTTBuSE3yS3phlA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/9a563b70-217b-11ed-befe-c158008e6ef3.cf.jpg",
+            "publishedAt": "2023-03-02T19:50:58Z",
+            "content": "Hate sitting in rush hour traffic? Ford knows you do and the company is doubling down on developing automated driving technology to help make traffic a little more tolerable. Today, Ford announced th\u2026 [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Blender can now use AI to create images and effects from text descriptions",
+            "description": "Even 3D modelling software is using AI art generators. Stability AI has introduced a Stability for Blender tool that, as the name implies, brings Stable Diffusion's image creation tech to the open-source 3D tool. You can create AI-based textures, effects and \u2026",
+            "url": "https://www.engadget.com/blender-can-now-use-ai-to-create-images-and-effects-from-text-descriptions-175001548.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7Qkno3udluEulZQk6XbVwQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/c7b20600-b918-11ed-bfb7-434fc5197bfe.cf.jpg",
+            "publishedAt": "2023-03-02T17:50:01Z",
+            "content": "Even 3D modelling software is using AI art generators. Stability AI has introduced a Stability for Blender tool that, as the name implies, brings Stable Diffusion's image creation tech to the open-so\u2026 [+1276 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps",
+            "description": "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks, can create content in Office apps using text reque\u2026",
+            "url": "https://www.engadget.com/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg",
+            "publishedAt": "2023-03-16T15:11:33Z",
+            "content": "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested \u2026 [+2444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Text to Video Generative AI Is Finally Here and It\u2019s Weird as Hell",
+            "description": "I like my AI like I like my foreign cheese varieties, incredibly weird and full of holes, the kind that leaves most definitions of \u201cgood\u201d up to individual taste. So color me surprised as I explored the next frontier of public AI models, and found one of the s\u2026",
+            "url": "https://gizmodo.com/text-to-video-ai-art-generator-runway-modelscope-ai-1850249431",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif",
+            "publishedAt": "2023-03-22T11:45:00Z",
+            "content": "I like my AI like I like my foreign cheese varieties, incredibly weird and full of holes, the kind that leaves most definitions of good up to individual taste. So color me surprised as I explored the\u2026 [+4637 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "AI-generated images from text can't be copyrighted, US government rules",
+            "description": "Any images that are produced by giving a text prompt to current generative AI models, such as Midjourney\r\n or Stable Diffusion\r\n, cannot be copyrighted in the US. That's according to the US Copyright Office (USCO), which has equated such prompts to a buyer gi\u2026",
+            "url": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/z0DrGfDE2hCafrbAOi3u2g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bf3954c0-c41b-11ed-bffd-8307d83a5179.cf.jpg",
+            "publishedAt": "2023-03-16T17:42:43Z",
+            "content": "Any images that are produced by giving a text prompt to current generative AI models, such as Midjourney\r\n or Stable Diffusion\r\n, cannot be copyrighted in the US. That's according to the US Copyright\u2026 [+3027 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "Bing AI is coming to the Windows 11 taskbar, of course",
+            "description": "Three weeks after introducing the new AI-infused Bing, Microsoft is ready to shove it into Windows 11 with an update coming today. If you're in the Bing AI preview, you'll be able to access all of its new features from the search box in the Windows 11 taskbar\u2026",
+            "url": "https://www.engadget.com/microsoft-bing-ai-windows-11-taskbar-140056212.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fon9qTPdDYIjzWbJvwrq2Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/1b44d3e0-b722-11ed-bdf5-b2c43ec83f56.cf.jpg",
+            "publishedAt": "2023-02-28T14:00:56Z",
+            "content": "Three weeks after introducing the new AI-infused Bing, Microsoft is ready to shove it into Windows 11 with an update coming today. If you're in the Bing AI preview, you'll be able to access all of it\u2026 [+3882 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Hitting the Books: AI is making people think faster, not smarter",
+            "description": "There is too much internet and our attempts to keep up with the breakneck pace of, well, everything these days \u2014 it is breaking our brains. Parsing through the deluge of inundating information hoisted up by algorithmic systems built to maximize engagement has\u2026",
+            "url": "https://www.engadget.com/hitting-the-books-i-human-tomas-chamorro-premuzic-harvard-business-review-press-153003112.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/uafycZqlWIAmRsJqewvJag--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/8e06db80-b7ae-11ed-bff6-695ed3593177.cf.jpg",
+            "publishedAt": "2023-03-05T15:30:03Z",
+            "content": "There is too much internet and our attempts to keep up with the breakneck pace of, well, everything these days it is breaking our brains. Parsing through the deluge of inundating information hoisted \u2026 [+8180 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Aimi's app for listening to AI-generated beats arrives on Android and iOS",
+            "description": "Following a beta that saw just 5,000 people get a chance to use the software, Aimi\u2019s iOS and Android app is now available to all. The release brings the company\u2019s generative music platform to mobile, where it was not available previously. Engadget\u2019s James Tre\u2026",
+            "url": "https://www.engadget.com/aimis-app-for-listening-to-ai-generated-beats-arrives-on-android-and-ios-150035919.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/EKHhsBrPKBf9F7RalnQcXg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/0376da40-bc5b-11ed-9bde-3c0dad4a99a0.cf.jpg",
+            "publishedAt": "2023-03-09T15:00:35Z",
+            "content": "Following a beta that saw just 5,000 people get a chance to use the software, Aimis iOS and Android app is now available to all. The release brings the companys generative music platform to mobile, w\u2026 [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Meta's newest AI fairness benchmark measures even more granular bias markers",
+            "description": "As a white man in America with no discernible regional accent, I can simply assume that modern consumer technologies \u2014 virtual assistants like Siri, Alexa or Assistant\r\n, and my phones\u2019 camera \u2014 will work seamlessly out of the box. I assume this because, well\u2026",
+            "url": "https://www.engadget.com/metas-newest-ai-fairness-benchmark-measures-even-more-granular-bias-markers-140043320.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/OiogUXHZ43JiDrxJODZXXA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/d80b41d0-bdda-11ed-bfbc-bf6654b3eacb.cf.jpg",
+            "publishedAt": "2023-03-09T14:00:43Z",
+            "content": "As a white man in America with no discernible regional accent, I can simply assume that modern consumer technologies virtual assistants like Siri, Alexa or Assistant\r\n, and my phones camera will work\u2026 [+3261 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "How You Can Tell the AI Images of Trump\u2019s Arrest Are Deepfakes",
+            "description": "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren\u2019t what they seem.",
+            "url": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
+            "urlToImage": "https://media.wired.com/photos/641a3cc41b037831fcc7504c/191:100/w_1280,c_limit/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg",
+            "publishedAt": "2023-03-21T23:31:47Z",
+            "content": "The viral AI-generated images of Donald Trumps arrest you may be seeing on social media are definitely fake. But some of these photorealistic creations are pretty convincing. Others look more like st\u2026 [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tabi Jensen",
+            "title": "An AI \u2018Sexbot\u2019 Fed My Hidden Desires\u2014and Then Refused to Play",
+            "description": "Late-night curiosity about the NSFW depths of a chatbot unleashed my fantasies\u2014until we were censored.",
+            "url": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+            "urlToImage": "https://media.wired.com/photos/6408f60857d6078ef81a964e/191:100/w_1280,c_limit/ideas_ai_chatbot_sex.jpg",
+            "publishedAt": "2023-03-09T14:00:00Z",
+            "content": "Super excellent answers! That compacted my fantasies into a dense, unspeakable knot that I tread around and over myself for yearsyears that led to the slow, inevitable realization that Mistress Akita\u2026 [+3263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "OpenAI Levels Up With Newly Released GPT-4",
+            "description": "OpenAI, the folks behind the ludicrously popular ChatGPT and DALL-E, has near-single handedly strangled the entire tech world in the grip of AI. Now the company has a new version of its AI language generator that, at least on paper, seems purpose built to upe\u2026",
+            "url": "https://gizmodo.com/gpt4-open-ai-chatgpt-chatbot-microsoft-bing-api-1850225377",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ebab6cf2bfeaf7ca1dfae9f27e1a2c2c.jpg",
+            "publishedAt": "2023-03-14T19:33:31Z",
+            "content": "OpenAI, the folks behind the ludicrously popular ChatGPT and DALL-E, has near-single handedly strangled the entire tech world in the grip of AI. Now the company has a new version of its AI language g\u2026 [+4086 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Germain",
+            "title": "Stanford Researchers Take Down Alpaca AI Due to 'Hallucinations' and Rising Costs",
+            "description": "Researchers at Stanford University have taken down their short-lived chatbot that harnessed Meta\u2019s LLaMA AI, nicknamed Alpaca AI. The researchers launched Alpaca with a public demo anyone could try last week, but quickly took the model offline thanks to risin\u2026",
+            "url": "https://gizmodo.com/stanford-ai-alpaca-llama-facebook-taken-down-chatgpt-1850247570",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b67ab74c41c891c401f6f518950113e.jpg",
+            "publishedAt": "2023-03-21T16:31:00Z",
+            "content": "Researchers at Stanford University have taken down their short-lived chatbot that harnessed Metas LLaMA AI, nicknamed Alpaca AI. The researchers launched Alpaca with a public demo anyone could try la\u2026 [+2482 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Are romance authors at risk from book-writing chatbots?",
+            "description": "As AI-powered chatbots can now write fiction, human authors may have unwanted competition.",
+            "url": "https://www.bbc.co.uk/news/business-64975524",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1671B/production/_129013919_juliaquinnbookcover2-viscountwholovedme_tvtiein.jpg",
+            "publishedAt": "2023-03-20T00:01:05Z",
+            "content": "Sales of romantic fiction continue to boom, but with the genre often accused of being formulaic, are its authors at risk of being replaced by book-writing chatbots?\r\nJulia Quinn is the author of the \u2026 [+6486 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "A Privacy Hero's Final Wish: An Institute to Redirect AI's Future",
+            "description": "Peter Eckersley did groundbreaking work to encrypt the web. After his sudden death, a new organization he founded is carrying out his vision to steer artificial intelligence toward \u201chuman flourishing.\u201d",
+            "url": "https://www.wired.com/story/peter-eckersley-ai-objectives-institute/",
+            "urlToImage": "https://media.wired.com/photos/640263082ebbc2d0389fc29b/191:100/w_1280,c_limit/A-Privacy-Hero's-Final-Wish-A-Project-To-Redirect-AI's-Future-Security.jpg",
+            "publishedAt": "2023-03-05T22:54:17Z",
+            "content": "Yesterday, hundreds in Eckersley's community of friends and colleagues packed the pews for an unusual sort of memorial service at the church-like sanctuary of the Internet Archive in San Franciscoa s\u2026 [+3209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now",
+            "description": "ChatGPT can do just about anything. It can write you a horror story about a killer clove of garlic, identify issues with your computer code, and teach you how to pronounce words in another language. It can also create new games out of thin air, and you can tr\u2026",
+            "url": "https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1eb5a526f09d90e8a033953e2117a360.jpg",
+            "publishedAt": "2023-03-09T19:00:00Z",
+            "content": "ChatGPT can do just about anything. It can write you a horror story about a killer clove of garlic, identify issues with your computer code, and teach you how to pronounce words in another language. \u2026 [+2200 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Hungary official takes on German MEP in AI 'rap battle'",
+            "description": "It's fair to say neither man's effort is likely to dominate the streaming charts.",
+            "url": "https://www.bbc.co.uk/news/world-europe-65015408",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B8D/production/_129054251_gettyimages-1245762727.jpg",
+            "publishedAt": "2023-03-21T16:09:51Z",
+            "content": "It's unlikely to dominate the streaming charts, but Hungarian Prime Minister Viktor Orban has become the subject of a unique diss track.\r\nAnd the man behind the song is no up-and-coming artist or fut\u2026 [+1861 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Microsoft confirms Bing runs on the new GPT-4 model",
+            "description": "When Microsoft and OpenAI announced their renewed partnership in January, the two companies also revealed that Bing search would soon boast AI-enhanced lookup capabilities. Little did we know at the time, that Bing search has been powered for the past five we\u2026",
+            "url": "https://www.engadget.com/microsoft-confirms-bing-runs-on-the-new-gpt-4-model-184121316.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/jat6WhMTYboLWcv0FLkbXQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/4e510950-c296-11ed-beff-e6e25b210862.cf.jpg",
+            "publishedAt": "2023-03-14T18:41:21Z",
+            "content": "When Microsoft and OpenAI announced their renewed partnership in January, the two companies also revealed that Bing search would soon boast AI-enhanced lookup capabilities. Little did we know at the \u2026 [+952 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Qualcomm's Snapdragon 7+ Gen 2 will debut in mid-range phones this month",
+            "description": "Qualcomm\r\n has unveiled its latest chipset that will power a wealth of mid-range phones starting later this month. Redmi and Realme are among the brands that will use the Snapdragon 7+ Gen 2 chipset.As you might expect, the chipset isn't quite as powerful as \u2026",
+            "url": "https://www.engadget.com/qualcomms-snapdragon-7-gen-2-will-debut-in-mid-range-phones-this-month-060023883.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ZSJGlDm6NNQZU5MhhLYxvg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ed1fc540-c36c-11ed-987f-752d6d1cbbca.cf.jpg",
+            "publishedAt": "2023-03-17T06:00:23Z",
+            "content": "Qualcomm\r\n has unveiled its latest chipset that will power a wealth of mid-range phones starting later this month. Redmi and Realme are among the brands that will use the Snapdragon 7+ Gen 2 chipset.\u2026 [+1887 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Scientists confirm a fifth layer inside the Earth's core",
+            "description": "Tear down the middle school geology posters: We have an update. A team at Australian National University (ANU) has found evidence of a new fifth layer to the planet, an iron-nickel alloy ball in the inner core. The scientists found the hidden core by studying\u2026",
+            "url": "https://www.engadget.com/the-morning-after-scientists-confirm-a-fifth-layer-inside-the-earths-core-121533578.html",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T12:15:33Z",
+            "content": "Tear down the middle school geology posters: We have an update. A team at Australian National University (ANU) has found evidence of a new fifth layer to the planet, an iron-nickel alloy ball in the \u2026 [+2693 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "OpenAI will let developers build ChatGPT into their apps",
+            "description": "OpenAI, the company behind ChatGPT and DALL-E 2, announced several significant changes today. First, it\u2019s launching developer APIs for ChatGPT and the Whisper speech-transcription model. It also changed its terms of service to let developers opt out of using \u2026",
+            "url": "https://www.engadget.com/openai-will-let-developers-build-chatgpt-into-their-apps-204737530.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/sL_n06mvOrtpzNG1Gw8vpA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/d721f180-b86f-11ed-bf3f-20ec05b52824.cf.jpg",
+            "publishedAt": "2023-03-01T20:47:37Z",
+            "content": "OpenAI, the company behind ChatGPT and DALL-E 2, announced several significant changes today. First, its launching developer APIs for ChatGPT and the Whisper speech-transcription model. It also chang\u2026 [+2655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "OpenAI Says Stonemasons Should Be Fine in the Brave New World",
+            "description": "A new paper released Monday says that 80% of the U.S. workforce will see the impact of large language models on their work. While some will only experience a moderate amount of impact on their day to day workload, close to 20% of those working today will like\u2026",
+            "url": "https://gizmodo.com/openai-ai-chatbot-coding-writers-jobs-penn-1850244785",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3deda1d100c3ddc85878f798dd46954e.jpg",
+            "publishedAt": "2023-03-20T20:15:00Z",
+            "content": "A new paper released Monday says that 80% of the U.S. workforce will see the impact of large language models on their work. While some will only experience a moderate amount of impact on their day to\u2026 [+4709 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "US Technological Dominance Is Not What It Used to Be",
+            "description": "The US still leads the world in artificial intelligence, but there are signs it is losing its edge to China in other areas of advanced computing.",
+            "url": "https://www.wired.com/story/us-technological-dominance-is-not-what-it-used-to-be/",
+            "urlToImage": "https://media.wired.com/photos/63fff68482f5460a73e0eb91/191:100/w_1280,c_limit/China-vs-US-Tech-Supercomputers-Business-1334791657.jpg",
+            "publishedAt": "2023-03-02T17:00:00Z",
+            "content": "With everyone so\u00a0mesmerized by silver-tongued AI chatbots, its easy to forget that most flashy breakthroughs in science and technology depend on much less glamorous advances in the fundamentals of co\u2026 [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Bing AI\u2019s Secret Celebrity Chat Mode Lets Out Misogynistic Frustrations as Andrew Tate",
+            "description": "Microsoft secretly rolled out a new feature into its Bing AI preview that lets users emulate certain famous people. It does a, let\u2019s just say, \u201cinteresting\u201d job at emulating some celebrities\u2019 speech patterns. We also took a look at what it\u2019s allowed to say on\u2026",
+            "url": "https://gizmodo.com/bing-ai-celebrity-mode-andrew-tate-google-ai-1850191980",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cce40dd7ea4037e3b744c04c0e3ced00.jpg",
+            "publishedAt": "2023-03-06T14:50:48Z",
+            "content": "Microsoft secretly rolled out a new feature into its Bing AI preview that lets users emulate certain famous people. It does a, lets just say, interesting job at emulating some celebrities speech patt\u2026 [+3213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Amazon Driver Says AI Is Tracking Their Every Move, Even Beard Scratching",
+            "description": "The dark overlord Sauron that is the online retail giant Amazon always has its eye on its workers, and none more so than its delivery drivers. One TikTok shows how Amazon\u2019s in-van cameras and AI system can track everything, from how often they buckle up, to w\u2026",
+            "url": "https://gizmodo.com/amazon-amazon-prime-distracted-driving-jeff-bezos-1850167485",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a36647ca09442cdc61863903991a131d.jpg",
+            "publishedAt": "2023-02-28T15:45:00Z",
+            "content": "The dark overlord Sauron that is the online retail giant Amazon always has its eye on its workers, and none more so than its delivery drivers. One TikTok shows how Amazons in-van cameras and AI syste\u2026 [+3278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Apple's Delaying Products, Avoiding AI in Desperate Bid to Avoid Layoffs",
+            "description": "Apple does not want to resort to layoffs, unlike many other major tech companies, which have been downsizing since around the turn of 2023. The tech giant is so desperate to not become another Google, Microsoft, or Meta (which thought 11,000 Meta staff layoff\u2026",
+            "url": "https://gizmodo.com/apple-ai-siri-chatgpt-homepod-screen-layoffs-delays-1850243150",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cf97adab98c4818fc984c06206ea548a.jpg",
+            "publishedAt": "2023-03-20T15:45:00Z",
+            "content": "Apple does not want to resort to layoffs, unlike many other major tech companies, which have been downsizing since around the turn of 2023. The tech giant is so desperate to not become another Google\u2026 [+3466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lauren Leffer",
+            "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
+            "description": "To most humans, a fruit fly larva doesn\u2019t look like much: a pale, wriggling, rice grain-shaped maggot, just a few millimeters in length. Yet, in their own way, fly larvae lead rich and interesting lives full of sensory inputs, social behaviors, and learning. \u2026",
+            "url": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
+            "publishedAt": "2023-03-09T19:00:00Z",
+            "content": "To most humans, a fruit fly larva doesnt look like much: a pale, wriggling, rice grain-shaped maggot, just a few millimeters in length. Yet, in their own way, fly larvae lead rich and interesting liv\u2026 [+10650 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Cherlynn Low",
+            "title": "Engadget Podcast: The most interesting things from Mobile World Congress 2023",
+            "description": "This week, our hosts are joined by UK Bureau Chief Mat Smith to dive into the most interesting devices that were announced at Mobile World Congress, which has been happening this week in Barcelona. Are foldables getting more interesting, or are they going to \u2026",
+            "url": "https://www.engadget.com/engadget-podcast-mwc-2023-most-interesting-phones-foldables-rollables-fast-charging-133021266.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
+            "publishedAt": "2023-03-03T13:30:21Z",
+            "content": "This week, our hosts are joined by UK Bureau Chief Mat Smith to dive into the most interesting devices that were announced at Mobile World Congress, which has been happening this week in Barcelona. A\u2026 [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "James Bridle",
+            "title": "The stupidity of AI",
+            "description": "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerousIn January 2021, the artificial intelligence research laboratory OpenAI gave a l\u2026",
+            "url": "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt",
+            "urlToImage": "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1143b84cfe1e3cf80d50cb94b4192751",
+            "publishedAt": "2023-03-16T06:00:20Z",
+            "content": "In January 2021, the artificial intelligence research laboratory OpenAI gave a limited release to a piece of software called Dall-E. The software allowed users to enter a simple description of an ima\u2026 [+28440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Germain",
+            "title": "DuckDuckGo Releases Its Own ChatGPT-Powered Search Engine, DuckAssist",
+            "description": "DuckDuckGo launched a beta version of an AI search tool powered by ChatGPT Wednesday called DuckAssist. The addition to the company\u2019s privacy-focused search engine uses ChatGPT\u2019s language parsing capability to generate answers scraped from Wikipedia and relat\u2026",
+            "url": "https://gizmodo.com/chat-gpt-ai-duckduckgo-duckassist-search-engine-1850199552",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/604a226e74b27d36e1f38120410445f8.jpg",
+            "publishedAt": "2023-03-08T13:00:00Z",
+            "content": "DuckDuckGo launched a beta version of an AI search tool powered by ChatGPT Wednesday called DuckAssist. The addition to the companys privacy-focused search engine uses ChatGPTs language parsing capab\u2026 [+3046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "OpenAI Says It Won't Steal Data From Those Who Use Its New API to Train ChatGPT",
+            "description": "OpenAI, the makers of DALL-E 2 and ChatGPT, has practically become the tech world\u2019s go-to for implementing AI. On Wednesday the company announce it\u2019s making it easier for developers to jam large language models down the pipe of every app and site who wants it\u2026",
+            "url": "https://gizmodo.com/open-ai-chatgpt-api-bing-google-ai-1850174901",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3887403f8a401bd4e257dd3d86f6df14.jpg",
+            "publishedAt": "2023-03-01T21:40:00Z",
+            "content": "OpenAI, the makers of DALL-E 2 and ChatGPT, has practically become the tech worlds go-to for implementing AI. On Wednesday the company announce its making it easier for developers to jam large langua\u2026 [+5841 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Microsoft's collaborative work app, Loop, is finally available in public preview",
+            "description": "It took two years, but Microsoft is at last ready to let everyday users try its latest take on collaborative work. The company is releasing its Loop app in public preview form on the web, Android and iOS. As shown back in 2021, this lets people work on projec\u2026",
+            "url": "https://www.engadget.com/microsofts-collaborative-work-app-loop-is-finally-available-in-public-preview-203058893.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/a0LeFaJN.gyTw1qANXmKTg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/29a8e370-c8ea-11ed-ad7a-654d22e9cd75.cf.jpg",
+            "publishedAt": "2023-03-22T20:30:58Z",
+            "content": "It took two years, but Microsoft is at last ready to let everyday users try its latest take on collaborative work. The company is releasing its Loop app in public preview form on the web, Android and\u2026 [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "\u2018Cyberpunk 2077\u2019 is getting a path-tracing 'Overdrive Mode' in April",
+            "description": "Nvidia wants game developers to remember that ray tracing isn\u2019t the end of the line. A new Cyberpunk 2077 technology preview (\u201cOverdrive Mode\u201d) supports path tracing, the next goalpost to make games look even prettier and keep you buying expensive new GPUs. T\u2026",
+            "url": "https://www.engadget.com/cyberpunk-2077-is-getting-a-path-tracing-overdrive-mode-in-april-171558980.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/vEsxQHJWFjT1HPqJ8Xe7kQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/99d6c850-c99a-11ed-bfbf-1fc3f21d61e6.cf.jpg",
+            "publishedAt": "2023-03-23T17:15:58Z",
+            "content": "Nvidia wants game developers to remember that ray tracing isnt the end of the line. A new Cyberpunk 2077 technology preview (Overdrive Mode) supports path tracing, the next goalpost to make games loo\u2026 [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary B. Wolf",
+            "title": "Analysis: AI can be racist, sexist and creepy. What should we do about it?",
+            "description": "The emergence of ChatGPT and now GPT-4, the artificial intelligence interface from OpenAI that will chat with you, answer questions and passably write a high school term paper, is both a quirky diversion and a harbinger of how technology is changing the way w\u2026",
+            "url": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230301111817-03-chatgpt-openai-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-18T13:29:53Z",
+            "content": "A version of this story appeared in CNNs What Matters newsletter. To get it in your inbox, sign up for free here.\r\nThe emergence of ChatGPT and now GPT-4, the artificial intelligence interface from O\u2026 [+15634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Yossi MatiasVP, Engineering and Research, Greg CorradoPh.D., Head of Health AI",
+            "title": "Our latest health AI research updates",
+            "description": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
+            "url": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/check_up_hero_2.width-1300.format-webp.webp",
+            "publishedAt": "2023-03-14T15:00:00Z",
+            "content": "Weve spent the past several years researching artificial intelligence (AI) for healthcare exploring how it can help detect diseases early, expand access to care and more. Weve taken a move slow and t\u2026 [+5999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "Apple Blocked a ChatGPT Email App From the App Store",
+            "description": "Apple waded into the debate over generative artificial intelligence this week when it blocked a ChatGPT-powered email app over concerns the app would not properly filter content for young audiences. The blocked app update, which the developer claims is unfair\u2026",
+            "url": "https://gizmodo.com/apple-chatgpt-ai-email-bluemail-app-store-blocked-1850178793",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5f8ea95e4d21f9453a8f5ba0e2a5556c.jpg",
+            "publishedAt": "2023-03-02T17:45:00Z",
+            "content": "Apple waded into the debate over generative artificial intelligence this week when it blocked a ChatGPT-powered email app over concerns the app would notproperly filter content for young audiences. T\u2026 [+5448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Google Officially Releases Bard, Its ChatGPT Rival",
+            "description": "After an initial announcement in February, Google has officially opened limited beta access to its AI chatbot, \u201cBard,\u201d which it describes as a companion to its primary service, search. Google calls the chatbot an \u201cexperiment\u201d and has reminded users that it is\u2026",
+            "url": "https://gizmodo.com/google-bard-chatgpt-ai-rival-released-1850248162",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fa22938b2ea34130adec20c8e2d3fad1.jpg",
+            "publishedAt": "2023-03-21T18:35:00Z",
+            "content": "After an initial announcement in February, Google has officially opened limited beta access to its AI chatbot, Bard, which it describes as a companion to its primary service, search. Google calls the\u2026 [+3291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kevin Hurler",
+            "title": "TikTok Announces 'Refreshed' Community Guidelines Ahead of Congressional Hearing",
+            "description": "With a nationwide TikTok ban on the table, the app that has brought us so much comfort (and endless scrolling) is shifting its approach to content moderation. Today, TikTok unveiled new content moderation policies that vaguely target AI-generated content and \u2026",
+            "url": "https://gizmodo.com/tiktok-bytedance-tiktok-ban-short-form-videos-1850247204",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/206dbc4c3d65b567d3dc3710d36f3ee4.jpg",
+            "publishedAt": "2023-03-21T14:40:00Z",
+            "content": "With a nationwide TikTok ban on the table, the app that has brought us so much comfort (and endless scrolling) is shifting its approach to content moderation. Today, TikTok unveiled new content moder\u2026 [+3051 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Meta to continue releasing AI tools despite leak claims - Reuters",
+            "description": "Meta to continue releasing AI tools despite leak claims\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWV0YS1jb250aW51ZS1yZWxlYXNpbmctYWktdG9vbHMtZGVzcGl0ZS1sZWFrLWNsYWltcy0yMDIzLTAzLTA2L9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T23:05:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AI stocks surge after C3.ai's strong forecast - Reuters.com",
+            "description": "AI stocks surge after C3.ai's strong forecast\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktc3RvY2tzLXN1cmdlLWFmdGVyLWMzYWlzLXN0cm9uZy1mb3JlY2FzdC0yMDIzLTAzLTAzL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-03T12:29:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. Chamber of Commerce calls for AI regulation - Reuters.com",
+            "description": "U.S. Chamber of Commerce calls for AI regulation\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtY2hhbWJlci1jb21tZXJjZS1jYWxscy1haS1yZWd1bGF0aW9uLTIwMjMtMDMtMDkv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-09T11:07:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Meta rolls out AI language model LLaMA - Reuters.com",
+            "description": "Meta rolls out AI language model LLaMA\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWV0YS1sYXVuY2gtYWktbGFuZ3VhZ2UtbW9kZWwtbGxhbWEtMjAyMy0wMi0yNC_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T16:29:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Explainer: What is Generative AI, the technology behind OpenAI's ... - Reuters",
+            "description": "Explainer: What is Generative AI, the technology behind OpenAI's ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvd2hhdC1pcy1nZW5lcmF0aXZlLWFpLXRlY2hub2xvZ3ktYmVoaW5kLW9wZW5haXMtY2hhdGdwdC0yMDIzLTAzLTE3L9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T11:32:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Startup behind Stable Diffusion releases AI system for generating ... - Reuters.com",
+            "description": "Startup behind Stable Diffusion releases AI system for generating ...\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvc3RhcnR1cC1iZWhpbmQtc3RhYmxlLWRpZmZ1c2lvbi1yZWxlYXNlcy1haS1zeXN0ZW0tZ2VuZXJhdGluZy12aWRlb3MtdGV4dC0yMDIzLTAzLTIwL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T13:03:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "AI Games and AI Film Festival will highlight how generative AI is taking root",
+            "description": "Get ready for the AI revolution. A group of companies is staging The Culture AI Games and Film Festival on May 9 in San Francisco.",
+            "url": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/03/ai-games-and-film.jpg?w=1200&strip=all",
+            "publishedAt": "2023-03-02T19:00:00Z",
+            "content": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here.\r\nGenerative AI is exploding and leading to the first AI-generated games and AI-created movies. A\u2026 [+1126 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "edodd@insider.com (Ethan Dodd)",
+            "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
+            "description": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
+            "url": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
+            "urlToImage": "https://i.insider.com/6402378937125e0018a101cb?width=1200&format=jpeg",
+            "publishedAt": "2023-03-03T18:16:50Z",
+            "content": "Where tech companies and investors see gold, regulators see potential for overhyped marketing and fraud.\r\nSince its November 2022 launch, ChatGPT has mesmerized millions and sparked an arms race amon\u2026 [+4242 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "As AI booms, EU lawmakers wrangle over new rules - Reuters",
+            "description": "As AI booms, EU lawmakers wrangle over new rules\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktYm9vbXMtZXUtbGF3bWFrZXJzLXdyYW5nbGUtb3Zlci1uZXctcnVsZXMtMjAyMy0wMy0yMi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-22T06:02:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "France looks to AI-powered surveillance to secure Olympics - Reuters",
+            "description": "France looks to AI-powered surveillance to secure Olympics\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZnJhbmNlLWxvb2tzLWFpLXBvd2VyZWQtc3VydmVpbGxhbmNlLXNlY3VyZS1vbHltcGljcy0yMDIzLTAzLTIzL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-23T18:55:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Ford launches automated driving unit Latitude AI months after ... - Reuters",
+            "description": "Ford launches automated driving unit Latitude AI months after ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZm9yZC1sYXVuY2hlcy1hdXRvbWF0ZWQtZHJpdmluZy11bml0LWxhdGl0dWRlLWFpLW1vbnRocy1hZnRlci13aW5kaW5nLWRvd24tYXJnby0yMDIzLTAzLTAyL9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-02T18:06:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Discord to roll out AI-powered chatbot, messaging features - Reuters",
+            "description": "Discord to roll out AI-powered chatbot, messaging features\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZGlzY29yZC1yb2xsLW91dC1haS1wb3dlcmVkLWNoYXRib3QtbWVzc2FnaW5nLWZlYXR1cmVzLTIwMjMtMDMtMDkv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-09T16:03:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AI startup Adept raises $350 million in fresh funding - Reuters",
+            "description": "AI startup Adept raises $350 million in fresh funding\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWRlcHQtcmFpc2VzLTM1MC1tbG4tc2VyaWVzLWItZnVuZGluZy0yMDIzLTAzLTE0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-14T20:45:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Explainer: What is the European Union AI Act? - Reuters",
+            "description": "Explainer: What is the European Union AI Act?\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvd2hhdC1pcy1ldXJvcGVhbi11bmlvbi1haS1hY3QtMjAyMy0wMy0yMi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-22T06:07:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "DuckDuckGo Dabbles With AI Search",
+            "description": "Privacy-focused search engine DuckDuckGo has followed Microsoft and Google to become the latest veteran search player to dip its beak in the generative AI trend -- announcing the launch today in beta of an AI-powered summarization feature, called DuckAssist, \u2026",
+            "url": "https://slashdot.org/story/23/03/08/1323244/duckduckgo-dabbles-with-ai-search",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2023-03-08T14:00:00Z",
+            "content": "DDG says it's drawing on natural language technology from ChatGPT-maker OpenAI and Anthropic, an AI startup founded by ex-OpenAI employees, to power the natural language summarization capability, com\u2026 [+1311 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "\u201cSorry in advance!\u201d Snapchat warns of hallucinations with new AI conversation bot",
+            "description": "\"My AI\" will cost $3.99 a month and \"can be tricked into saying just about anything.\"",
+            "url": "https://arstechnica.com/information-technology/2023/02/sorry-in-advance-snapchat-warns-of-hallucinations-with-new-ai-conversation-bot/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/snapchat_chatbot_hero_2-760x380.jpg",
+            "publishedAt": "2023-02-27T20:01:45Z",
+            "content": "34 with \r\nOn Monday, Snapchat announced an experimental AI-powered conversational chatbot called \"My AI,\" powered by ChatGPT-style technology from OpenAI. My AI will be available for $3.99 a month fo\u2026 [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "Don\u2019t worry about AI breaking out of its box\u2014worry about us breaking in",
+            "description": "Opinion: The worst human impulses will find plenty of uses for generative AI.",
+            "url": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ai-attack-dog-760x380.jpg",
+            "publishedAt": "2023-02-24T15:23:34Z",
+            "content": "3 with \r\nRob Reid is a venture capitalist, New York Times-bestselling science fiction author, deep-science podcaster, and essayist. His areas of focus are pandemic resilience, climate change, energy \u2026 [+3885 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Ethical AI art generation? Adobe Firefly may be the answer",
+            "description": "Adobe trained new AI generator on Adobe Stock, licensed content, public domain.",
+            "url": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-760x380.jpg",
+            "publishedAt": "2023-03-22T17:27:41Z",
+            "content": "Enlarge/ An Adobe Firefly AI image generator example.\r\n8 with \r\nOn Tuesday, Adobe unveiled Firefly, its new AI image synthesis generator. Unlike other AI art models such as Stable Diffusion and DALL-\u2026 [+2967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Taryn Plumb",
+            "title": "Responsible AI is a must for achieving AI at scale",
+            "description": "Responsible AI must be foundational when applying AI at scale. It's about performance, risk management and effectiveness.",
+            "url": "https://venturebeat.com/ai/scaling-ai-responsibly/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/03/3-Scaling-AI-responsibly.jpg?w=1200&strip=all",
+            "publishedAt": "2023-03-15T16:00:00Z",
+            "content": "This article is part of a VB special issue. Read the full series here: The quest for Nirvana: Applying AI at scale.\r\nWhen it comes to applying AI at scale, responsible AI cannot be an afterthought, s\u2026 [+7578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Brendan Cieko, Cuseum",
+            "title": "Generative AI: Imagining a future of AI-dominated creativity",
+            "description": "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years.",
+            "url": "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all",
+            "publishedAt": "2023-03-18T15:20:00Z",
+            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nAI-generated media has reached an explosive tipping poin\u2026 [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Report: Apple to 'Re-Examine' AI Development",
+            "description": "Apple is planning to \"re-examine\" its development of artificial intelligence, according to Taiwanese supply chain publication DigiTimes.\n\n\n\n\n\nThe paywalled report suggests that the growing interest in generative AI catalyzed by ChatGPT has motivated a re-eval\u2026",
+            "url": "https://www.macrumors.com/2023/03/08/apple-to-reexamine-ai-development/",
+            "urlToImage": "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg",
+            "publishedAt": "2023-03-08T14:42:12Z",
+            "content": "Apple is planning to \"re-examine\" its development of artificial intelligence, according to Taiwanese supply chain publication DigiTimes.\r\nThe paywalled report suggests that the growing interest in ge\u2026 [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Zachary McAuliffe",
+            "title": "Microsoft Launches AI-Incorporated Business Tool - CNET",
+            "description": "Microsoft said its new AI tool can help eliminate mundane business tasks.",
+            "url": "https://www.cnet.com/tech/services-and-software/microsoft-launches-ai-incorporated-business-tool/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/91e143ea4bd6585c2a470a54089841c5e1b54917/hub/2022/04/27/1d46a81c-df02-4c3e-b0d3-7af814d64a63/microsoft-logo-2022-499.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-03-06T15:44:30Z",
+            "content": "On Monday, Microsoft announced the launch of Microsoft Dynamics 365 Copilot, a new artificial intelligence\u00a0tool meant to handle various business tasks.\u00a0\r\n\"Dynamics 365 Copilot takes advantage of rece\u2026 [+1286 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Shubham Agarwal)",
+            "title": "A new email tool proves the AI revolution has already arrived",
+            "description": "I used a new AI tool to summarize my emails and improve my productivity. The new app convinced me that the AI revolution is just getting started.",
+            "url": "https://www.businessinsider.com/ai-email-inbox-revolution-chatgpt-google-openai-shortwave-productivity-tools-2023-3",
+            "urlToImage": "https://i.insider.com/6402774c37125e0018a1130b?width=1200&format=jpeg",
+            "publishedAt": "2023-03-06T10:02:00Z",
+            "content": "I get more emails than I can handle. Every day, I watch as the unread messages in my inbox pile up despite my best efforts. It's not because I spend too much time responding to the emails that matter\u2026 [+10498 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "amok@insider.com (Aaron Mok)",
+            "title": "ChatGPT is coming to Snapchat",
+            "description": "Snapchat said its My AI chatbot, limited to paid subscribers, is part of an effort to increase its user base and join the AI arms race.",
+            "url": "https://www.businessinsider.com/chatgpt-coming-to-snapchat-my-ai-tech-companies-race-2023-2",
+            "urlToImage": "https://i.insider.com/63fcce7fb8468e001896a3ff?width=1200&format=jpeg",
+            "publishedAt": "2023-02-27T17:21:45Z",
+            "content": "Snapchat is launching its own AI chatbot called My AI, which will be\u00a0powered by OpenAI's ChatGPT.\r\nStarting this week, Snapchat users will have access to its new conversational chatbot, which can wri\u2026 [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "amok@insider.com (Aaron Mok)",
+            "title": "Two Google engineers built a ChatGPT-like AI chatbot years ago, but execs reportedly shut it down due to safety concerns",
+            "description": "Google's plans to launch its AI chatbot Bard soon, but years ago the company thwarted numerous attempts to release its AI tools to the public.",
+            "url": "https://www.businessinsider.com/google-ai-chatbot-chatgpt-years-ago-execs-shut-down-report-2023-3",
+            "urlToImage": "https://i.insider.com/63d96b8de33c4000193a65ce?width=1200&format=jpeg",
+            "publishedAt": "2023-03-08T09:59:00Z",
+            "content": "Google is expected to release its widely anticipated AI chatbot Bard in the near future. But years ago, two ex-Google engineers pushed their former employer to release a similar chatbot to the public\u2026 [+3679 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Moz\u00e9e)",
+            "title": "'Walking the walk': C3.ai soars 19% after the AI software company reports big quarterly earning beat",
+            "description": "In a note Friday, Wedbush's Dan Ives said C3.ai is now \"walking the walk\" as it gains momentum in the fast-growing AI space.",
+            "url": "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-ai-earnings-chatgpt-artificial-intelligence-software-2023-3",
+            "urlToImage": "https://i.insider.com/63dadb150a08ae0018a668fa?width=1200&format=jpeg",
+            "publishedAt": "2023-03-03T15:09:13Z",
+            "content": "The corporate and investor interest in artificial intelligence technology was on display Friday, with a surge in shares of C3.ai as the AI enterprise software company delivered better-than-expected q\u2026 [+2105 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gkay@insider.com (Grace Kay)",
+            "title": "A video game company made a bot the CEO, and its stock climbed",
+            "description": "Even before AI chatbot ChatGPT was released, NetDragon Websoft said it had made an \"AI-powered virtual humanoid robot\" the head of a key subsidiary.",
+            "url": "https://www.businessinsider.com/video-game-company-made-bot-its-ceo-stock-climbed-2023-3",
+            "urlToImage": "https://i.insider.com/6411d65fb6d9f20018912c30?width=1200&format=jpeg",
+            "publishedAt": "2023-03-15T18:15:00Z",
+            "content": "Even before AI chatbot ChatGPT made headlines late last year, a video game company said it had already made a bot its CEO.\r\nIn August, the Chinese gaming company NetDragon Websoft announced it had ap\u2026 [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "AI-powered Bing Chat gains three distinct personalities",
+            "description": "Bing Chat is no longer unhinged, but it can hallucinate more if you want it to.",
+            "url": "https://arstechnica.com/information-technology/2023/03/microsoft-equips-bing-chat-with-multiple-personalities-creative-balanced-precise/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/three_bings_hero_1-760x380.jpg",
+            "publishedAt": "2023-03-03T21:05:58Z",
+            "content": "12 with \r\nOn Wednesday, Microsoft employee Mike Davidson announced that the firm has rolled out three distinct personality styles for its experimental AI-powered Bing Chat bot: Creative, Balanced, or\u2026 [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Google unveils 'magic wand' to draft documents as AI race tightens - Reuters",
+            "description": "Google unveils 'magic wand' to draft documents as AI race tightens\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZ29vZ2xlLXVudmVpbHMtbWFnaWMtd2FuZC1kcmFmdC1kb2N1bWVudHMtYWktcmFjZS10aWdodGVucy0yMDIzLTAzLTE0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-14T13:07:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AI comes for the DJ: London partygoers rave to robot beats - Reuters.com",
+            "description": "AI comes for the DJ: London partygoers rave to robot beats\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktY29tZXMtZGotbG9uZG9uLXBhcnR5Z29lcnMtcmF2ZS1yb2JvdC1iZWF0cy0yMDIzLTAzLTE1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T09:05:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Microsoft unveils AI office copilot in fast-moving race with Google - Reuters",
+            "description": "Microsoft unveils AI office copilot in fast-moving race with Google\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWljcm9zb2Z0LXVudmVpbHMtYWktaXRzLW9mZmljZS1zdWl0ZS1pbmNyZWFzZWQtY29tcGV0aXRpb24td2l0aC1nb29nbGUtMjAyMy0wMy0xNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T16:15:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board - Reuters.com",
+            "description": "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYmlvdGVjaC1haS1zdGFydHVwLXVubGVhcm4tYWRkcy0xNS1tbG4tb3BlbmFpLWN0by1ib2FyZC0yMDIzLTAzLTIxL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T10:12:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AI chatbot Character.AI, with no revenue, raises $150 mln led by ... - Reuters",
+            "description": "AI chatbot Character.AI, with no revenue, raises $150 mln led by ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktY2hhdGJvdC1jaGFyYWN0ZXJhaS13aXRoLW5vLXJldmVudWUtcmFpc2VzLTE1MC1tbG4tbGVkLWJ5LWFuZHJlZXNzZW4taG9yb3dpdHotMjAyMy0wMy0yMy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-23T10:15:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alex Hern",
+            "title": "What is GPT-4 and how does it differ from ChatGPT?",
+            "description": "The most powerful AI model yet from OpenAI, can tell jokes and write bar exams \u2013 but can it also cause harm?OpenAI\u2019s latest release, GPT-4, is the most powerful and impressive AI model yet from the company behind ChatGPT and the Dall-E AI artist. The system c\u2026",
+            "url": "https://www.theguardian.com/technology/2023/mar/15/what-is-gpt-4-and-how-does-it-differ-from-chatgpt",
+            "urlToImage": "https://i.guim.co.uk/img/media/b765ad682ab45937c4579ae9a20a188820fbc6fc/0_192_5834_3499/master/5834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d24bba2bcc725624a60b614379a18c5a",
+            "publishedAt": "2023-03-15T17:23:08Z",
+            "content": "OpenAIs latest release, GPT-4, is the most powerful and impressive AI model yet from the company behind ChatGPT and the Dall-E AI artist. The system can pass the bar exam, solve logic puzzles, and ev\u2026 [+4303 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "UK Supreme Court hears landmark patent case over AI \"inventor\" - Reuters",
+            "description": "UK Supreme Court hears landmark patent case over AI \"inventor\"\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdWstc3VwcmVtZS1jb3VydC1oZWFycy1sYW5kbWFyay1wYXRlbnQtY2FzZS1vdmVyLWFpLWludmVudG9yLTIwMjMtMDMtMDIv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-02T14:16:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Zoom jumps on AI bandwagon, forecasts upbeat 2024 profit targets - Reuters",
+            "description": "Zoom jumps on AI bandwagon, forecasts upbeat 2024 profit targets\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvem9vbS1mb3JlY2FzdHMtd2Vhay1hbm51YWwtcmV2ZW51ZS1jb29saW5nLXZpZGVvLWNvbmZlcmVuY2luZy1kZW1hbmQtMjAyMy0wMi0yNy_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T23:44:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. Supreme Court asked to decide if AI can be a patent 'inventor' - Reuters",
+            "description": "U.S. Supreme Court asked to decide if AI can be a patent 'inventor'\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3VzLXN1cHJlbWUtY291cnQtYXNrZWQtZGVjaWRlLWlmLWFpLWNhbi1iZS1wYXRlbnQtaW52ZW50b3ItMjAyMy0wMy0xNy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T18:29:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. Copyright Office says some AI-assisted works may be copyrighted - Reuters.com",
+            "description": "U.S. Copyright Office says some AI-assisted works may be copyrighted\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWNvcHlyaWdodC1vZmZpY2Utc2F5cy1zb21lLWFpLWFzc2lzdGVkLXdvcmtzLW1heS1iZS1jb3B5cmlnaHRlZC0yMDIzLTAzLTE1L9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T18:47:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Nvidia set to reveal new AI technologies at annual conference - Reuters",
+            "description": "Nvidia set to reveal new AI technologies at annual conference\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbnZpZGlhLXNldC1yZXZlYWwtbmV3LWFpLXRlY2hub2xvZ2llcy1hbm51YWwtY29uZmVyZW5jZS0yMDIzLTAzLTIxL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T10:04:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Microsoft adds new Bing to Windows computers in effort to roll out AI - Reuters",
+            "description": "Microsoft adds new Bing to Windows computers in effort to roll out AI\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWljcm9zb2Z0LWFkZHMtbmV3LWJpbmctd2luZG93cy1jb21wdXRlcnMtZWZmb3J0LXJvbGwtb3V0LWFpLTIwMjMtMDItMjgv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T14:07:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 - Reuters",
+            "description": "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWljcm9zb2Z0LWJhY2tlZC1vcGVuYWktc3RhcnRzLXJlbGVhc2UtcG93ZXJmdWwtYWkta25vd24tZ3B0LTQtMjAyMy0wMy0xNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-14T18:09:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "PwC's 4000 legal staffers get AI assistant as law chatbots gain steam - Reuters UK",
+            "description": "PwC's 4000 legal staffers get AI assistant as law chatbots gain steam\u00a0\u00a0Reuters UK",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3B3Y3MtNDAwMC1sZWdhbC1zdGFmZmVycy1nZXQtYWktYXNzaXN0YW50LWxhdy1jaGF0Ym90cy1nYWluLXN0ZWFtLTIwMjMtMDMtMTUv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T18:26:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Adobe, Nvidia AI imagery systems aim to resolve copyright questions - Reuters.com",
+            "description": "Adobe, Nvidia AI imagery systems aim to resolve copyright questions\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWRvYmUtbnZpZGlhLWFpLWltYWdlcnktc3lzdGVtcy1haW0tcmVzb2x2ZS1jb3B5cmlnaHQtcXVlc3Rpb25zLTIwMjMtMDMtMjEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T16:08:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AI storytelling startup Tome records fast user growth, to launch paid ... - Reuters",
+            "description": "AI storytelling startup Tome records fast user growth, to launch paid ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktc3Rvcnl0ZWxsaW5nLXN0YXJ0dXAtdG9tZS1yZWNvcmRzLWZhc3QtdXNlci1ncm93dGgtbGF1bmNoLXBhaWQtdGllci1zb29uLTIwMjMtMDMtMjMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-23T10:24:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Every link on Twitter briefly broke",
+            "description": "Many Twitter users feared that the platform would fall apart after Musk took over Twitter in October and swiftly fired thousands of employees and contractors. That hasn\u2019t happened yet, but links failing to work, yesterday, is likely connected to the company\u2019s\u2026",
+            "url": "https://www.engadget.com/the-morning-after-every-link-on-twitter-briefly-broke-121538863.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/RJfL4ljSUzRuGPr6z9Iy4Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-01/3a657cc0-a890-11ed-b679-512e51ea9b4a.cf.jpg",
+            "publishedAt": "2023-03-07T12:15:38Z",
+            "content": "Many Twitter users feared that the platform would fall apart after Musk took over Twitter in October and swiftly fired thousands of employees and contractors. That hasnt happened yet, but links faili\u2026 [+3947 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Don\u2019t count out Google and its AI chatbot Bard from AI race - TechTarget",
+            "description": "<ol><li>Don\u2019t count out Google and its AI chatbot Bard from AI race\u00a0\u00a0TechTarget\r\n</li><li>Google's Assistant team is helping with Bard\u00a0\u00a0MobileSyrup\r\n</li><li>Bard vs. Bing: AI Search Bots Answer Questions About Visual Studio and .NET\u00a0\u00a0Visual Studio Magazine\r\n\u2026",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGVudGVycHJpc2VhaS9uZXdzLzM2NTUzMzc1NS9Eb250LWNvdW50LW91dC1Hb29nbGUtYW5kLWl0cy1BSS1jaGF0Ym90LUJhcmQtZnJvbS1BSS1yYWNl0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-23T14:54:24Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]"
+        }
+    ]
+}
