@@ -16,7 +16,6 @@ from preprocessArticles import *
 # preprocess_articles()
 # create_map()
 # create_posting_list()
-
 posting_list = json.load(open('posting_list.json', 'r'))
 number_of_docs = len(json.load(open('preprocessed_files.json', 'r')))
 # create_tf()
