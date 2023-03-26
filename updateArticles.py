@@ -8,6 +8,7 @@ def update():
     for file in os.listdir():
         if len(file.split('_')) > 1:
                 continue
+        print(file)
         with open(file, 'r') as f:
             data_dict = json.load(f)
         for i in range(len(data_dict['articles'])):
@@ -16,3 +17,6 @@ def update():
         with open(file, 'w') as f:
             json.dump(data_dict, f, indent = 4)
             f.close()
+        
+if __name__ == "__main__":
+    update()

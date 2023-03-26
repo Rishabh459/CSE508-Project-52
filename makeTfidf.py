@@ -26,7 +26,6 @@ def create_tf():
         json.dump(tf_dict, f, indent = 4)
         f.close()
 
-# create_tf()
 
 # create idf dict
 def create_idf_dict(no_of_docs, posting_list):

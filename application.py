@@ -7,12 +7,20 @@ from sklearn.metrics.pairwise import cosine_similarity
 from makePostings import *
 from makeTfidf import *
 import pickle
+from updateArticles import *
+from preprocess import *
+from makeMap import *
+from preprocessArticles import *
 
-create_posting_list()
+# update()
+# preprocess_articles()
+# create_map()
+# create_posting_list()
 
 posting_list = json.load(open('posting_list.json', 'r'))
 number_of_docs = len(json.load(open('preprocessed_files.json', 'r')))
-create_idf_dict(number_of_docs, posting_list)
+# create_tf()
+# create_idf_dict(number_of_docs, posting_list)
 
 binary_tf_idf_matrix = create_tf_idf_matrix_binary(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
 raw_count_tf_idf_matrix = create_tf_idf_matrix_raw_count(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
@@ -33,7 +41,7 @@ double_normalization_tf_idf_matrix = create_tf_idf_matrix_double_normalization(n
 #     pickle.dump(double_normalization_tf_idf_matrix, f)
 
 
-tweet_data = pd.read_csv('C:\\Users\\lenovo\\OneDrive\\Desktop\\CSE508-Project-52-main\\gretaData.csv')
+tweet_data = pd.read_csv('kohli_Data.csv')
 # print(number_of_docs)
 # pick up the columnn text and convert it to a list
 tweet = tweet_data['Tweet'].tolist()
@@ -64,11 +72,11 @@ raw_count_similarity_matrix = cosine_similarity(raw_count_tf_idf_matrix, [query_
 term_frequency_similarity_matrix = cosine_similarity(term_frequency_tf_idf_matrix, [query_vector])
 log_normalization_similarity_matrix = cosine_similarity(log_normalization_tf_idf_matrix, [query_vector])
 double_normalization_similarity_matrix = cosine_similarity(double_normalization_tf_idf_matrix, [query_vector])
-
-# recommend top 10 articles
+x = 6
+# recommend top x articles
 def recommend_top_10_articles(similarity_matrix):
-    top_10 = np.argsort(similarity_matrix, axis=0)[-10:][::-1]
-    top_10 = top_10.reshape(10)
+    top_10 = np.argsort(similarity_matrix, axis=0)[-x:][::-1]
+    top_10 = top_10.reshape(x)
     return top_10
 
 binary_top_10 = recommend_top_10_articles(double_normalization_similarity_matrix)

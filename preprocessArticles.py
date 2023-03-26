@@ -1,6 +1,6 @@
 import os
 import json
-
+from preprocess import preprocess
 # now we preprocess the text in each article and store it in a dictionary with key as the article-id and value as the list of words
 # send the author title description and content of each article to the preprocess function and store the list of words in a dictionary
 # with key as the article-id and value as the list of words in a new file called 'filename_preprocessed.json'
