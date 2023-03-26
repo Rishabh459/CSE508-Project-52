@@ -65,28 +65,35 @@ def main():
 		twitter_id = selectbox("Select a Twitter ID", user_list)
 
 		e_metric = selectbox("Select an option", ["Jaccard Coefficient","Binary Weighting Scheme","Raw Count Weighting Scheme", "Term Frequency Weighting Scheme", "Log Normalization Weighting Scheme", "Double Normalization Weighting Scheme"])
-		if e_metric == "Jaccard Coefficient":
-			st.write('You selected Jaccard Coefficient.')
-		elif e_metric == "Binary Weighting Scheme":
-			st.write("You selected Binary Weighting Scheme.")
-		elif e_metric == "Raw Count Weighting Scheme":
-			st.write("You selected Raw Count Weighting Scheme.")
-		elif e_metric == "Term Frequency Weighting Scheme":
-			st.write("You selected Term Frequency Weighting Scheme.")
-		elif e_metric == "Log Normalization Weighting Scheme":
-			st.write("You selected Log Normalization Weighting Scheme.")
-		elif e_metric == "Double Normalization Weighting Scheme":
-			st.write("You selected Double Normalization Weighting Scheme.")
+		# if e_metric == "Jaccard Coefficient":
+		# 	st.write('You selected Jaccard Coefficient.')
+		# elif e_metric == "Binary Weighting Scheme":
+		# 	st.write("You selected Binary Weighting Scheme.")
+		# elif e_metric == "Raw Count Weighting Scheme":
+		# 	st.write("You selected Raw Count Weighting Scheme.")
+		# elif e_metric == "Term Frequency Weighting Scheme":
+		# 	st.write("You selected Term Frequency Weighting Scheme.")
+		# elif e_metric == "Log Normalization Weighting Scheme":
+		# 	st.write("You selected Log Normalization Weighting Scheme.")
+		# elif e_metric == "Double Normalization Weighting Scheme":
+		# 	st.write("You selected Double Normalization Weighting Scheme.")
 		
+		# number_news = st.slider('How many news do you want?', 8, 12)
+		number_news = st.number_input('How many news do you want?', 8,12)
 
 		if st.button("Search"):
-			qvector = get_query_vector(twitter_id)
-
-			
 			with st.spinner('Loading News Articles...'):
 				rain(emoji="📰", font_size=45, falling_speed=5, animation_length="1")
-				time.sleep(2)
+				time.sleep(8)
 			
+			qvector = get_query_vector(twitter_id)
+			similarity_matrix = helper_1(e_metric, qvector)
+			top_x_news = recommend_top_10_articles(similarity_matrix, number_news)
+
+			st.subheader("Here are the top %d news articles for you:" % number_news)
+			for i in range(len(top_x_news)):
+				st.write(top_x_news[i][2], "[🔗](%s)" % top_x_news[i][1])
+
 			# temp = get_user_data(twitter_id)
 			# if(temp == -1):
 			# 	st.warning("Invalid Credentials")

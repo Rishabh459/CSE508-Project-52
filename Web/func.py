@@ -62,15 +62,47 @@ def get_query_vector(twitter_id):
         query_vector = json.load(f)
     return query_vector
 
-def helper_1():
-    number_of_docs = len(json.load(open('preprocessed_files.json', 'r')))
+def helper_1(option, query_vector):
     # create_tf()
     # create_idf_dict(number_of_docs, posting_list)
 
-    binary_tf_idf_matrix = create_tf_idf_matrix_binary(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
-    raw_count_tf_idf_matrix = create_tf_idf_matrix_raw_count(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
-    term_frequency_tf_idf_matrix = create_tf_idf_matrix_term_frequency(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
-    log_normalization_tf_idf_matrix = create_tf_idf_matrix_log_normalization(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
-    double_normalization_tf_idf_matrix = create_tf_idf_matrix_double_normalization(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
-    return binary_tf_idf_matrix, raw_count_tf_idf_matrix, term_frequency_tf_idf_matrix, log_normalization_tf_idf_matrix, double_normalization_tf_idf_matrix
+    # vocab_size = len(json.load(open('idf.json', 'r')))
+    # number_of_docs = len(json.load(open('preprocessed_files.json', 'r')))
+    number_of_docs = 1800
+    vocab_size = 16976
 
+    tf_idf_matrix = np.zeros((number_of_docs, vocab_size))
+
+    # if option == 'Jaccard Coefficient'
+    if option == "Binary Weighting Scheme":
+        tf_idf_matrix = create_tf_idf_matrix_binary(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
+    
+    elif option == "Raw Count Weighting Scheme":
+        tf_idf_matrix = create_tf_idf_matrix_raw_count(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
+
+    
+    elif option == "Term Frequency Weighting Scheme":
+        tf_idf_matrix = create_tf_idf_matrix_term_frequency(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
+        
+    elif option == "Log Normalization Weighting Scheme":
+        tf_idf_matrix = create_tf_idf_matrix_log_normalization(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
+       
+    elif option == "Double Normalization Weighting Scheme":
+        tf_idf_matrix = create_tf_idf_matrix_double_normalization(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))    
+
+    similarity_matrix = cosine_similarity(tf_idf_matrix, [query_vector])
+
+    return similarity_matrix
+
+# recommend top x articles
+def recommend_top_10_articles(similarity_matrix, x):
+    top_10 = np.argsort(similarity_matrix, axis=0)[-x:][::-1]
+    top_10 = top_10.reshape(x)
+    maplink = json.load(open('maplink.json', 'r'))
+    lst = []
+    for i, (key, value) in enumerate(maplink.items()):
+        if i in top_10:
+            lst.append((key,value[0], value[1]))
+    return lst
+
+# binary_top_10 = recommend_top_10_articles(double_normalization_similarity_matrix)
