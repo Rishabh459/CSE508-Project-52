@@ -135,7 +135,7 @@ def main():
 
 		with tab4:
 			st.header("Uttkarsh Singh")
-			# st.image("photos\uttkarsh_singh.jpg", width=100)
+			st.image("photos\\utkarsh_singh.jpeg", width=250)
 			st.write("As a junior at IIIT Delhi, I have a strong interest in data structures and algorithms, and I am passionate about solving real-world problems through programming. I have completed several projects where I have applied my skills in software development.")
 			st.write("Socials:")
 			mention(label="Github",icon="github",  url="https://github.com/uttkxrrsh")
