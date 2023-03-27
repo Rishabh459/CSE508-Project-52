@@ -126,7 +126,7 @@ def main():
 		
 		with tab3:
 			st.header("Rishabh Oberoi")
-			# st.image("", width=250)
+			st.image("photos\Rishabh_oberoi.jpg", width=250)
 			st.write("Information coming soon")
 			st.write("Socials:")
 			mention(label="Github",icon="github",  url="https://github.com/Rishabh459")
