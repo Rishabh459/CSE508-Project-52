@@ -42,11 +42,11 @@ def main():
 		st.header("Welcome to TweetPress!!")
 		st.text("We are dedicated to recommending the latest and most interesting news articles!")
 		my_expander1 = st.expander("**What is TweetPress?**")
-		my_expander1.write("TweetPress is a news recommendation system that recommends the latest and most interesting news articles to the user based on their interests. The user can register as a new user and provide their interests in the form of Twitter handles. The system then recommends the latest news articles based on the user's interests.")
+		my_expander1.write("TweetPress is a news recommendation system that recommends the latest and most interesting news articles to the user based on their interests. The user can input Twitter handles and the system then recommends the latest news articles based on the user's interests.")
 		my_expander2 = st.expander("**How does it work?**")
-		my_expander2.write("The system uses the Twitter API to fetch the latest tweets from the user's Twitter handle. The system then uses the Google News API to fetch the latest news articles based on the user's interests. The system then recommends the latest news articles to the user based on their interests.")
+		my_expander2.write("The system uses the Twitter API to fetch the latest tweets from the user's Twitter handle. The system then uses Newsapi.org to fetch the recent news articles. The system then recommends the latest news articles to the user based on their twitter activity.")
 		my_expander3 = st.expander("**How to use TweetPress?**")
-		my_expander3.write("To use TweetPress, you can either register as a new user or login as an existing user. If you are a new user, you can register by providing your name, email and Twitter handle. If you are an existing user, you can login by providing your name and Twitter handle. Once you are logged in, you can view the latest news articles recommended to you based on your interests.")
+		my_expander3.write("To use TweetPress, you can enter a Twitter handle, the number of news articles you want to see and the evaluation metric you would want to use for extracting the relevant news articles. Then you can view the latest news articles recommended to you.")
 
 	# elif choice == "New User":
 	# 	st.subheader("Enter your Details:")
@@ -79,7 +79,7 @@ def main():
 		# 	st.write("You selected Double Normalization Weighting Scheme.")
 		
 		# number_news = st.slider('How many news do you want?', 8, 12)
-		number_news = st.number_input('How many news do you want?', 8,12)
+		number_news = st.number_input('How many news articles do you want?', 8,12)
 
 		if st.button("Search"):
 			with st.spinner('Loading News Articles...'):
@@ -126,8 +126,8 @@ def main():
 		
 		with tab3:
 			st.header("Rishabh Oberoi")
-			st.image("photos\Rishabh_oberoi.jpg", width=250)
-			st.write("Information coming soon")
+			st.image("photos\Rishabh_oberoi.jpg", width=200)
+			st.write("As a passionate 3rd year Computer Science student, I love exploring the fascinating worlds of data structures and algorithms, mathematics, and cognitive science. \nI find it thrilling to dive deep into complex concepts and uncover their practical applications, always striving to learn and grow as a problem-solver.")
 			st.write("Socials:")
 			mention(label="Github",icon="github",  url="https://github.com/Rishabh459")
 			mention(label="Linkedin",icon="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055",  url="https://www.linkedin.com/in/rishabh-oberoi-327837229/")
