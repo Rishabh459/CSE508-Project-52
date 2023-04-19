@@ -98,7 +98,7 @@ def get_tweets(username):
     os.chdir('tweets')
     df = pd.read_csv(username  + '.csv')
     os.chdir('..')
-    return df['text'].tolist()
+    return df['Tweet'].tolist()
 
 # Recommend top k articles
 def recommend_articles(username, p, k):
