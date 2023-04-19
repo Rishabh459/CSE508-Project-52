@@ -5,6 +5,7 @@ from collections import defaultdict
 import json
 import os
 from nltk.corpus import stopwords
+import pandas as pd
 
 # Twitter API credentials
 consumer_key = "your_consumer_key"
