@@ -93,17 +93,15 @@ def rank_articles(articles, keywords):
     return sorted(ranked_articles.items(), key=lambda x: x[1], reverse=True)
 
 
+def get_tweets(username):
+    os.chdir('tweets')
+    df = pd.read_csv(username  + '.csv')
+    os.chdir('..')
+    return df['text'].tolist()
+
 # Recommend top k articles
 def recommend_articles(username, p, k):
-    # tweets = get_tweets(username, p)
-    tweets = [
-        "I love Python!",
-        "Python is the best programming language!",
-        "Python is the most popular programming language!",
-        "Artificial intelligence is the future!",
-        "Electric Vehicles are the future of sustainability!",
-    ]
-
+    tweets = get_tweets('gretaData')
     # get tweets polarity cumulative score
     tweets_polarity = 0
     for tweet in tweets:
