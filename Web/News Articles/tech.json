@@ -1,0 +1,1406 @@
+{
+    "status": "ok",
+    "totalResults": 54147,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Polar is bringing its fitness tracking tech to rival watches",
+            "description": "Polar isn't as big a name in fitness watches as competitors like Garmin, but it believes it has a way to extend its footprint: license its technology to those rivals. The company is now making 25 fitness algorithms available to some companies. \"Powered by Pol\u2026",
+            "url": "https://www.engadget.com/polar-fitness-tracking-for-third-party-watches-100045709.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/o2SSCkbzDS9VujD3OLo_CQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/7005f030-b489-11ed-acbb-03f76293b3e3.cf.jpg",
+            "publishedAt": "2023-02-28T10:00:45Z",
+            "content": "Polar isn't as big a name in fitness watches as competitors like Garmin, but it believes it has a way to extend its footprint: license its technology to those rivals. The company is now making 25 fit\u2026 [+1647 chars]",
+            "article-id": "tech/1"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sarah Fielding",
+            "title": "Amazon's palm-reading tech is being tested in Panera cafes",
+            "description": "Amazon One's palm-reading technology that can substitute for credit cards and tickets is now available for Panera customers. With this new partnership, the fast casual chain becomes the first national restaurant to let diners use their palm for payments and l\u2026",
+            "url": "https://www.engadget.com/amazons-palm-reading-tech-tested-panera-cafes-133037398.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8Emiu8ebkpmt8FK66lV7mQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbb9e710-c8b2-11ed-bf8f-994259819434.cf.jpg",
+            "publishedAt": "2023-03-22T13:30:37Z",
+            "content": "Amazon One's palm-reading technology that can substitute for credit cards and tickets is now available for Panera customers. With this new partnership, the fast casual chain becomes the first nationa\u2026 [+1390 chars]",
+            "article-id": "tech/2"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Varsha Bansal",
+            "title": "SVB\u2019s Collapse Is Causing Chaos in India\u2019s Tech Sector",
+            "description": "The bank was popular among Indian founders who needed US accounts. But many have struggled to get their money out.",
+            "url": "https://www.wired.com/story/svbs-collapse-is-causing-chaos-in-indias-tech-sector/",
+            "urlToImage": "https://media.wired.com/photos/640f8d1cfcebf513b041528f/191:100/w_1280,c_limit/down_trend_biz_GettyImages-1017275652.jpg",
+            "publishedAt": "2023-03-13T21:00:00Z",
+            "content": "In case of India, the number of Indian startups [impacted] is definitely very high compared to other nations, except for US, but the capital would not be as much, says Smriti Tomar, founder and CEO o\u2026 [+2819 chars]",
+            "article-id": "tech/3"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Morgan Meaker",
+            "title": "Silicon Valley Bank\u2019s Failure Deals a Blow to Europe\u2019s Startups",
+            "description": "The US lender filled a niche for European tech companies that no one else could, or would.",
+            "url": "https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/",
+            "urlToImage": "https://media.wired.com/photos/640f9dd4412651fa6ee14690/191:100/w_1280,c_limit/Euro_GettyImages-1409427454_biz.jpg",
+            "publishedAt": "2023-03-13T22:05:54Z",
+            "content": "Silicon Valley Bank's struggles started with a bad bet on long-dated US bonds. Rising interest rates meant that the value of those bonds fell. As depositors started to worry about the bank's balance \u2026 [+3167 chars]",
+            "article-id": "tech/4"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alistair Charlton",
+            "title": "Qualcomm Is Poised to Dominate EVs Before Apple Gets a Chance",
+            "description": "Its digital chassis is an internet-connected platform for the whole car, and the tech giant has General Motors, Jeep, Mercedes, and many more on board.",
+            "url": "https://www.wired.com/story/electric-cars-qualcomm-apple/",
+            "urlToImage": "https://media.wired.com/photos/6414db30b19ad4e3186e05f5/191:100/w_1280,c_limit/Qualcomm-Could-Corner-the-EV-Market-Before-Apple-Gets-a-Look-in--Gear.jpg",
+            "publishedAt": "2023-03-18T14:00:00Z",
+            "content": "Perhaps crucially, Qualcomm also says its Digital Chassis allows automakers to own the in-vehicle experience [and] extend their brand and bring engaging consumer interactions into the vehicle. This w\u2026 [+3536 chars]",
+            "article-id": "tech/5"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dell Cameron",
+            "title": "Senator Warner on the Restrict Act and a US TikTok Ban",
+            "description": "WIRED spoke with the coauthor of the Restrict Act, a bipartisan bill to crack down on tech from six \"hostile\" countries.",
+            "url": "https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/",
+            "urlToImage": "https://media.wired.com/photos/640fbaafdf4962e1cbeec9a3/191:100/w_1280,c_limit/TikTok-Ban-Security-GettyImages-1247870203.jpg",
+            "publishedAt": "2023-03-16T16:59:24Z",
+            "content": "In the future, it might be a new mobile game or an algorithm helping students study at home. It could be the latest graphics card or exercise bike, or an app that pairs families with puppies. With fe\u2026 [+4022 chars]",
+            "article-id": "tech/6"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Anna Kramer",
+            "title": "Amazon\u2019s HQ2 Aimed to Show Tech Can Boost Cities. Now It\u2019s on Pause",
+            "description": "Arlington, Virginia, won a US-wide contest to host Amazon\u2019s second headquarters. More than half of the giant project is now indefinitely delayed.",
+            "url": "https://www.wired.com/story/amazons-hq2-aimed-to-show-tech-can-boost-cities-now-its-on-pause/",
+            "urlToImage": "https://media.wired.com/photos/6402419ab66dcce8cbc80888/191:100/w_1280,c_limit/Amazon-Pauses-HQ2-Project-In-Virginia-Business.jpg",
+            "publishedAt": "2023-03-03T21:36:42Z",
+            "content": "After a dramaticcompetition that\u00a0pitted US cities against one another, years of contested planning, and claims of unwavering commitment despite the pandemic, Amazon now says its plan for a second hea\u2026 [+2918 chars]",
+            "article-id": "tech/7"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jaime Stathis",
+            "title": "Here Are the Skills You Need to Succeed in Tech in 2023",
+            "description": "First, stay human.",
+            "url": "https://www.wired.com/story/skills-to-succeed-in-tech-2023/",
+            "urlToImage": "https://media.wired.com/photos/6414aa6cc3ec48ee40adb9e3/191:100/w_1280,c_limit/How-To-Survive-In-Tech-2023-Business-1399129511.jpg",
+            "publishedAt": "2023-03-19T11:00:00Z",
+            "content": "Tech jobs took a heavy hit in 2022. According to\u00a0Layoffs.fyi, 424 tech companies laid off 120,253 employees in the first two months of 2023. But it might not be as bad as it sounds. \"This kind of rea\u2026 [+3904 chars]",
+            "article-id": "tech/8"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "The \u2018New\u2019 iPhone Actually Isn\u2019t New",
+            "description": "You might have the impression that the tech world in general is at a bit of a standstill. Companies push new products every year, but tout iterative features rather than revolutionary changes. Today, for example, Apple is pushing a brand-new iPhone, just six \u2026",
+            "url": "https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e2cf98043bebce3f190fbffda0c8b2f7.jpg",
+            "publishedAt": "2023-03-07T18:00:00Z",
+            "content": "You might have the impression that the tech world in general is at a bit of a standstill. Companies push new products every year, but tout iterative features rather than revolutionary changes. Today,\u2026 [+2064 chars]",
+            "article-id": "tech/9"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "OpenAI Levels Up With Newly Released GPT-4",
+            "description": "OpenAI, the folks behind the ludicrously popular ChatGPT and DALL-E, has near-single handedly strangled the entire tech world in the grip of AI. Now the company has a new version of its AI language generator that, at least on paper, seems purpose built to upe\u2026",
+            "url": "https://gizmodo.com/gpt4-open-ai-chatgpt-chatbot-microsoft-bing-api-1850225377",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ebab6cf2bfeaf7ca1dfae9f27e1a2c2c.jpg",
+            "publishedAt": "2023-03-14T19:33:31Z",
+            "content": "OpenAI, the folks behind the ludicrously popular ChatGPT and DALL-E, has near-single handedly strangled the entire tech world in the grip of AI. Now the company has a new version of its AI language g\u2026 [+4086 chars]",
+            "article-id": "tech/10"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Apple's Delaying Products, Avoiding AI in Desperate Bid to Avoid Layoffs",
+            "description": "Apple does not want to resort to layoffs, unlike many other major tech companies, which have been downsizing since around the turn of 2023. The tech giant is so desperate to not become another Google, Microsoft, or Meta (which thought 11,000 Meta staff layoff\u2026",
+            "url": "https://gizmodo.com/apple-ai-siri-chatgpt-homepod-screen-layoffs-delays-1850243150",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cf97adab98c4818fc984c06206ea548a.jpg",
+            "publishedAt": "2023-03-20T15:45:00Z",
+            "content": "Apple does not want to resort to layoffs, unlike many other major tech companies, which have been downsizing since around the turn of 2023. The tech giant is so desperate to not become another Google\u2026 [+3466 chars]",
+            "article-id": "tech/11"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Artem Golub, Blake Montgomery, and LeAnn Wallace",
+            "title": "Should Facial Recognition Technology be Banned? | Future Tech",
+            "description": "Gizmodo Deputy Editors discuss the latest news of a proposed ban on facial recognition technology.",
+            "url": "https://gizmodo.com/ban-facial-recognition-technology-future-tech-1850208765",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/710735a79bd076377dfdee92f9996354.jpg",
+            "publishedAt": "2023-03-10T16:45:00Z",
+            "content": "Gizmodo Deputy Editors discuss the latest news of a proposed ban on facial recognition technology.\r\nWe may earn a commission from links on this page.",
+            "article-id": "tech/12"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "UK to help tech firms after Silicon Valley Bank collapse",
+            "description": "Tech firms caught up in bank collapse will have cashflow needs met, the government says.",
+            "url": "https://www.bbc.co.uk/news/business-64930944",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D5A6/production/_128949645_whatsubject.jpg",
+            "publishedAt": "2023-03-12T08:56:00Z",
+            "content": "The government is working on a plan so that UK tech firms caught up in the collapse of Silicon Valley Bank won't run out of cash, it has said.\r\nThe Treasury wants to \"minimise damage to some of our m\u2026 [+2179 chars]",
+            "article-id": "tech/13"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jeff Dunn",
+            "title": "Nintendo discounts popular Switch games for Mario Day, plus the rest of the week's best tech deals",
+            "description": "For the past few years, Nintendo has celebrated March 10 as Mario Day, a celebration of the company's beloved hero, plumber, kart racer, boxing ref, doctor and lead mascot. (Mar10 = Mario, you see.) This is mostly just a clever marketing campaign, but for tho\u2026",
+            "url": "https://www.engadget.com/nintendo-discounts-popular-switch-games-for-mario-day-plus-best-tech-deals-this-week-153030787.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ludVX9xhc5jVQLMfZC6.Bw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-02/71183210-8a84-11ec-bffb-20a6a91b2be9.cf.jpg",
+            "publishedAt": "2023-03-10T15:30:30Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+8930 chars]",
+            "article-id": "tech/14"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jeff Dunn",
+            "title": "Samsung's Galaxy Watch 5 hits a new low of $220, plus the rest of the week's best tech deals",
+            "description": "It's a bit of a slow week for tech deals, but we've still found a handful of good prices on gadgets and gear we like. For instance, Samsung's Galaxy Watch 5, our preferred smartwatch for Android users, is down to a new low of $220, while Apple's iPad Air is $\u2026",
+            "url": "https://www.engadget.com/samsung-galaxy-watch-5-hits-new-low-220-best-tech-deals-this-week-150048719.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/aH5_4OVNnLABRokwglPEBQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/61396fe0-2493-11ed-9ffd-254410c436db.cf.jpg",
+            "publishedAt": "2023-02-24T15:00:48Z",
+            "content": "It's a bit of a slow week for tech deals, but we've still found a handful of good prices on gadgets and gear we like. For instance, Samsung's Galaxy Watch 5, our preferred smartwatch for Android user\u2026 [+7127 chars]",
+            "article-id": "tech/15"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Amy Skorheim",
+            "title": "The Apple Watch SE drops to its lowest price yet, plus the rest of the week's best tech deals",
+            "description": "It's Friday, which means today we put together the best deals in tech we saw this week. It's also St. Patrick's day and we could make a dumb joke about \"saving some green\" \u2014 but we won't. Instead, we'll just note that the Apple Watch SE dropped to its lowest \u2026",
+            "url": "https://www.engadget.com/the-apple-watch-se-drops-to-its-lowest-price-yet-plus-the-rest-of-the-weeks-best-tech-deals-164528358.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/aRWr8bU3sCqKQFaLGjRm6w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-09/5bf468d0-346c-11ed-9f93-e9f5a1aed1ae.cf.jpg",
+            "publishedAt": "2023-03-17T16:45:28Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+11434 chars]",
+            "article-id": "tech/16"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Silicon Valley Has a FOMO Problem",
+            "description": "Plus: Uber makes it easier to get picked up at the airport, Google adds new bio-authentication features to Android, and a herd of goats gets gone.",
+            "url": "https://www.wired.com/story/silicon-valley-fomo-spotify-tiktok/",
+            "urlToImage": "https://media.wired.com/photos/640bb67e15aacf925a9f462e/191:100/w_1280,c_limit/Silicon-Valley-FOMO-Gear-GettyImages-1348269600.jpg",
+            "publishedAt": "2023-03-11T14:00:00Z",
+            "content": "Good artists borrow, great artists steal feature ideas from the app du jour.\r\nThat might as well be the collective mantra of consumer tech companies, some of which have a well documented copycat habi\u2026 [+5609 chars]",
+            "article-id": "tech/17"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "U.S. Government Saves Silicon Valley Bank After Tech Industry Killed It",
+            "description": "The U.S. government swooped in on Sunday to save the tech industry from a problem of its own making, announcing that it would ensure all depositors in Silicon Valley Bank had full access to their money by Monday.\u00a0Read more...",
+            "url": "https://gizmodo.com/us-government-backs-deposits-silicon-valley-bank-1850218306",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dd04516d1e1486b568f5fdcbac4710f7.jpg",
+            "publishedAt": "2023-03-13T12:01:06Z",
+            "content": "The U.S. government swooped in on Sunday to save the tech industry from a problem of its own making, announcing that it would ensure all depositors in Silicon Valley Bank had full access to their mon\u2026 [+2490 chars]",
+            "article-id": "tech/18"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Goldman",
+            "title": "What's the next Silicon Valley Bank \u2014 and how can the US prevent more chaos?",
+            "description": "Silicon Valley Bank failed in rapid, stunning fashion Friday. This week, the tech and banking sector are growing skittish about the next shoe to drop.",
+            "url": "https://www.cnn.com/2023/03/12/investing/silicon-valley-bank-bailout/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230312095700-02-silicon-valley-bank-031223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-12T14:40:57Z",
+            "content": "Silicon Valley Bank failed in rapid, stunning fashion Friday. This week, the tech and banking sector are growing skittish about the next shoe to drop.\r\nWhat took place Friday was an old-fashioned ban\u2026 [+4773 chars]",
+            "article-id": "tech/19"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Senators reintroduce bill to protect personal data online",
+            "description": "Senators aren't giving up on a bill to safeguard your online data. Hawaii's Brian Schatz and 18 other senators have reintroduced the 2018-era Data Care Act to set higher standards for sensitive info. Companies will need to \"reasonably secure\" identifying data\u2026",
+            "url": "https://www.engadget.com/senators-reintroduce-bill-to-protect-personal-data-online-222057399.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/LNw.SSZp5pnatQljAGNS0A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/d934dfc0-bec1-11ed-b71b-2508182ba7c5.cf.jpg",
+            "publishedAt": "2023-03-09T22:20:57Z",
+            "content": "Senators aren't giving up on a bill to safeguard your online data. Hawaii's Brian Schatz and 18 other senators have reintroduced the 2018-era Data Care Act to set higher standards for sensitive info.\u2026 [+1448 chars]",
+            "article-id": "tech/20"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "The Top Antitrust Cop Says Big Tech Looks a Lot Like Standard Oil",
+            "description": "Jonathan Kanter, the Department of Justice\u2019s top antitrust enforcer, says Big Tech\u2019s cornucopia of questionable business practices looks an awful lot like the oil industry during Standard Oil\u2019s reign. Once a symbol of unstoppable corporate power, the John Roc\u2026",
+            "url": "https://gizmodo.com/google-standard-oil-big-tech-antitrust-justice-dept-1850194553",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4e8381400f5328c0853ef072cdf4726b.jpg",
+            "publishedAt": "2023-03-06T22:21:15Z",
+            "content": "Jonathan Kanter, the Department of Justices top antitrust enforcer, says Big Techs cornucopia of questionable business practices looks an awful lot like the oil industry during Standard Oils reign. O\u2026 [+6133 chars]",
+            "article-id": "tech/21"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Panera Bread Is Letting Customers Pay With Amazon\u2019s Palm Reading Tech",
+            "description": "Panera Bread isn\u2019t telling its legion of customers to shove their hand directly into their broccoli and cheese bread bowl, but a few Missouri franchisees are letting their customers know they can throw their palm onto the kiosk to pay for their meal. It\u2019s not\u2026",
+            "url": "https://gizmodo.com/panera-amazon-one-palm-reading-tech-biometric-data-1850251557",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/03ebaf34846209b8c45152411cdc2449.jpg",
+            "publishedAt": "2023-03-22T14:10:00Z",
+            "content": "Panera Bread isnt telling its legion of customers to shove their hand directly into their broccoli and cheese bread bowl, but a few Missouri franchisees are letting their customers know they can thro\u2026 [+2545 chars]",
+            "article-id": "tech/22"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kevin Hurler",
+            "title": "Linus Tech Tips YouTube Channel Is Down After Crypto Scammer Hack",
+            "description": "Famed YouTube channel Linus Tech Tips has been hacked and destroyed. The gadget review channel with over 15 million subscribers was spewing Elon Musk-themed crypto scams earlier this morning, but now appears to be completely pulled from the platform.Read more\u2026",
+            "url": "https://gizmodo.com/linus-tech-tips-youtube-elon-musk-crypto-hacker-1850256438",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/57f76f17cd7f3d4bfb5b9179505847d7.png",
+            "publishedAt": "2023-03-23T15:30:00Z",
+            "content": "Famed YouTube channel Linus Tech Tips has been hacked and destroyed. The gadget review channel with over 15 million subscribers was spewing Elon Musk-themed crypto scams earlier this morning, but now\u2026 [+1801 chars]",
+            "article-id": "tech/23"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sam Rutherford",
+            "title": "Sony 2023 Bravia XR TV hands-on: Bigger, brighter and even better looking",
+            "description": "Back at CES, most of the big TV makers like LG and Samsung announced their upcoming high end TVs. But one major company was missing: Sony. Now it\u2019s finally ready to show off its latest flagship sets, and after getting a chance to see them in person, I can say\u2026",
+            "url": "https://www.engadget.com/sony-2023-bravia-xr-tv-hands-on-bigger-brighter-and-even-better-looking-150030819.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/RcAeBtF4NRA8dYNg13X17w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bd7f1910-b7cf-11ed-affe-3685309ba140.cf.jpg",
+            "publishedAt": "2023-03-01T15:00:30Z",
+            "content": "Back at CES, most of the big TV makers like LG and Samsung announced their upcoming high end TVs. But one major company was missing: Sony. Now its finally ready to show off its latest flagship sets, \u2026 [+5357 chars]",
+            "article-id": "tech/24"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Google workers in Japan have joined a labor union in response to planned layoffs",
+            "description": "Dozens of Google Japan employees have organized under the Tokyo Managers' Union. It's the first labor union at Google Japan, according to Meiji University Assistant Professor Ken Yamazaki, who also posted a copy of the group's statements from a press conferen\u2026",
+            "url": "https://www.engadget.com/google-workers-in-japan-joined-labor-union-064417794.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/h_6UREc5G4Mp2k8crYw1oQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/1c400c90-b8be-11ed-bfff-5ff934763934.cf.jpg",
+            "publishedAt": "2023-03-02T06:44:17Z",
+            "content": "Dozens of Google Japan employees have organized under the Tokyo Managers' Union. It's the first labor union at Google Japan, according to Meiji University Assistant Professor Ken Yamazaki, who also p\u2026 [+1936 chars]",
+            "article-id": "tech/25"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Reddit is shutting down its Clubhouse clone on March 21st",
+            "description": "Pour one out for a Clubhouse clone. Reddit\r\n will shut down its live audio chats\r\n on March 21st. It debuted Reddit Talk less than two years ago\r\n in the throes of the COVID-19 pandemic, but the company isn't necessarily killing off the feature due to a lack \u2026",
+            "url": "https://www.engadget.com/reddit-is-shutting-down-its-clubhouse-clone-on-march-21st-165812937.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/cLU2EcZLnsNvgNDT0VvM5A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-02/a9bca0b0-89da-11ec-bfb7-fc14a098e3c6.cf.jpg",
+            "publishedAt": "2023-03-09T16:58:12Z",
+            "content": "Pour one out for a Clubhouse clone. Reddit\r\n will shut down its live audio chats\r\n on March 21st. It debuted Reddit Talk less than two years ago\r\n in the throes of the COVID-19 pandemic, but the comp\u2026 [+2457 chars]",
+            "article-id": "tech/26"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kevin Hurler",
+            "title": "Amazon CEO Andy Jassy Announces an Additional 9,000 Layoffs",
+            "description": "In an email to staff this morning, Amazon CEO Andy Jassy announced another round of layoffs at the massive tech corporation\u2014this time resulting in 9,000 Amazon employees losing their jobs. According to the memo, which was obtained by CNBC, the affected depart\u2026",
+            "url": "https://gizmodo.com/amazon-amazon-web-services-layoffs-twitch-1850243262",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b1313fe3782d3edd77f18f16a52db4db.jpg",
+            "publishedAt": "2023-03-20T15:39:00Z",
+            "content": "In an email to staff this morning, Amazon CEO Andy Jassy announced another round of layoffs at the massive tech corporationthis time resulting in 9,000 Amazon employees losing their jobs. According t\u2026 [+1692 chars]",
+            "article-id": "tech/27"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "TikTok: Why do countries think Chinese tech firms are a security risk?",
+            "description": "An increasing number of countries are putting curbs on TikTok and other Chinese technology firms.",
+            "url": "https://www.bbc.co.uk/news/technology-65019279",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10607/production/_129097076_chinatechindex1.png",
+            "publishedAt": "2023-03-23T14:46:45Z",
+            "content": "US Congress members have been grilling TikTok CEO Shou Zi Chew over the the safety of the social media app.\r\nThe US has threatened to ban it completely if the company remains under Chinese ownership.\u2026 [+4137 chars]",
+            "article-id": "tech/28"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lauren Leffer",
+            "title": "OpenAI Founder Sam Altman Invests $180 Million in Life-Extension Startup",
+            "description": "OpenAI\u2019s founder Sam Altman has a finger in more than one tech pie, so to speak. The controversial former president of startup accelerator, Y Combinator, and current ChatGPT kingpin isn\u2019t only interested in getting his company\u2019s artificial intelligence-powere\u2026",
+            "url": "https://gizmodo.com/open-ai-life-extension-tech-sam-altman-retro-1850203114",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d4c7e6f59be8577e51eefa955da33532.jpg",
+            "publishedAt": "2023-03-08T19:25:00Z",
+            "content": "OpenAIs founder Sam Altman has a finger in more than one tech pie, so to speak. The controversial former president of startup accelerator, Y Combinator, and current ChatGPT kingpin isnt only interest\u2026 [+4355 chars]",
+            "article-id": "tech/29"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "China targets disruption-free tech disruption - Reuters",
+            "description": "China targets disruption-free tech disruption\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2JyZWFraW5ndmlld3MvY2hpbmEtdGFyZ2V0cy1kaXNydXB0aW9uLWZyZWUtdGVjaC1kaXNydXB0aW9uLTIwMjMtMDMtMDgv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-08T04:41:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/30"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren del Valle",
+            "title": "Judge concerned Sam Bankman-Fried is too 'technologically savvy,' could find a way around tech restrictions",
+            "description": "United States District Judge Lewis Kaplan indicated at a hearing Friday he might modify FTX founder Sam Bankman-Fried's bail conditions, but only after attorneys further tighten the restrictions on Bankman-Fried's access to technology.",
+            "url": "https://www.cnn.com/2023/03/10/business/sam-bankman-fried-bail-technology-restrictions/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230310131219-01-sam-bankman-fried-0216.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-10T19:23:19Z",
+            "content": "United States District Judge Lewis Kaplan indicated at a hearing Friday he might modify FTX founder Sam Bankman-Frieds bail conditions, but only after attorneys further tighten the restrictions on Ba\u2026 [+1905 chars]",
+            "article-id": "tech/31"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "OpenAI Says It Won't Steal Data From Those Who Use Its New API to Train ChatGPT",
+            "description": "OpenAI, the makers of DALL-E 2 and ChatGPT, has practically become the tech world\u2019s go-to for implementing AI. On Wednesday the company announce it\u2019s making it easier for developers to jam large language models down the pipe of every app and site who wants it\u2026",
+            "url": "https://gizmodo.com/open-ai-chatgpt-api-bing-google-ai-1850174901",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3887403f8a401bd4e257dd3d86f6df14.jpg",
+            "publishedAt": "2023-03-01T21:40:00Z",
+            "content": "OpenAI, the makers of DALL-E 2 and ChatGPT, has practically become the tech worlds go-to for implementing AI. On Wednesday the company announce its making it easier for developers to jam large langua\u2026 [+5841 chars]",
+            "article-id": "tech/32"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Indian shares rise as Tech Mahindra leads IT cos - Reuters.com",
+            "description": "Indian shares rise as Tech Mahindra leads IT cos\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2luZGlhL2luZGlhbi1zaGFyZXMtcmlzZS10ZWNoLW1haGluZHJhLWxlYWRzLWl0LWNvcy0yMDIzLTAzLTEzL9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-13T04:18:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/33"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Exclusive: Shenzhen bourse taps intelligence tech firm as China ... - Reuters",
+            "description": "Exclusive: Shenzhen bourse taps intelligence tech firm as China ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvYXNpYS9zaGVuemhlbi1ib3Vyc2UtdGFwcy1pbnRlbGxpZ2VuY2UtdGVjaC1maXJtLWNoaW5hLWJhdHRsZXMtY2FwaXRhbC1tYXJrZXQtZnJhdWQtMjAyMy0wMy0xMC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-10T00:11:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/34"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Tech pressure, Yellen everywhere: How Washington scrambled as ... - Reuters.com",
+            "description": "Tech pressure, Yellen everywhere: How Washington scrambled as ...\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL3RlY2gtcHJlc3N1cmUteWVsbGVuLWV2ZXJ5d2hlcmUtaG93LXdhc2hpbmd0b24tc2NyYW1ibGVkLXN2Yi1jb2xsYXBzZWQtMjAyMy0wMy0xNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T15:40:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/35"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Tech stocks lift European shares on Fed relief - Reuters.com",
+            "description": "Tech stocks lift European shares on Fed relief\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL3RlY2gtc3RvY2tzLWxpZnQtZXVyb3BlYW4tc2hhcmVzLWZlZC1yZWxpZWYtMjAyMy0wMy0wMy_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-03T08:35:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/36"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "How Silicon Valley Bank's collapse ripped through global tech - Reuters.com",
+            "description": "How Silicon Valley Bank's collapse ripped through global tech\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvaG93LXNpbGljb24tdmFsbGV5LWJhbmtzLWNvbGxhcHNlLXJpcHBlZC10aHJvdWdoLWdsb2JhbC10ZWNoLTIwMjMtMDMtMTMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-13T21:37:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/37"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Nigeria launches $672 million tech fund for young investors - Reuters",
+            "description": "Nigeria launches $672 million tech fund for young investors\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbmlnZXJpYS1sYXVuY2hlcy02NzItbWlsbGlvbi10ZWNoLWZ1bmQteW91bmctaW52ZXN0b3JzLTIwMjMtMDMtMTQv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-14T20:06:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/38"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Analysis: SVB's climate tech clients face humbling funding questions - Reuters",
+            "description": "Analysis: SVB's climate tech clients face humbling funding questions\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2ZpbmFuY2Uvc3Zicy1jbGltYXRlLXRlY2gtY2xpZW50cy1mYWNlLWh1bWJsaW5nLWZ1bmRpbmctcXVlc3Rpb25zLTIwMjMtMDMtMTcv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T11:07:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/39"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Brussels to curb imports of Chinese green tech -FT - Reuters.com",
+            "description": "Brussels to curb imports of Chinese green tech -FT\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9icnVzc2Vscy1jdXJiLWltcG9ydHMtY2hpbmVzZS1ncmVlbi10ZWNoLWZ0LTIwMjMtMDMtMTUv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T21:20:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/40"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Britain, Israel aim to deepen tech, trade, security ties - Reuters",
+            "description": "Britain, Israel aim to deepen tech, trade, security ties\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2JyaXRhaW4taXNyYWVsLWFpbS1kZWVwZW4tdGVjaC10cmFkZS1zZWN1cml0eS10aWVzLTIwMjMtMDMtMjEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T08:01:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/41"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Maurizio Fiaschetti",
+            "title": "Now the tide of money into the tech sector is ebbing, we can see who has no bathers on | Maurizio Fiaschetti",
+            "description": "Following an increase in interest rates, new startups, old tech companies and SVB are facing hard timesTech companies and their bank of choice are in crisis: there have been widespread layoffs, and Silicon Valley Bank (SVB) recently collapsed. So what went wr\u2026",
+            "url": "https://www.theguardian.com/commentisfree/2023/mar/22/money-technology-sector-interest-rates-startups-svb",
+            "urlToImage": "https://i.guim.co.uk/img/media/16d1b0dfe6d62fa89be1f559c9279941a82601f4/0_114_3202_1921/master/3202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1774d6d24b1e731ea2274cc992189be0",
+            "publishedAt": "2023-03-22T08:30:19Z",
+            "content": "Tech companies and their bank of choice are in crisis: there have been widespread layoffs, and Silicon Valley Bank (SVB) recently collapsed. So what went wrong?\r\nLets start with tech companies. There\u2026 [+4516 chars]",
+            "article-id": "tech/42"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "The FBI Tested New Facial Recognition Software on Subways and Street Corners",
+            "description": "New documents revealed by the ACLU and shared with Gizmodo show the lengths FBI and Pentagon officials went to develop \u201ctruly unconstrained\u201d facial recognition capable of being deployed in public street cameras, mobile drones, and cops\u2019 body cameras.Read more\u2026",
+            "url": "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5cc3b8438211a59e01d987e5a251ac61.jpg",
+            "publishedAt": "2023-03-07T19:04:00Z",
+            "content": "New documents revealed by the ACLU and shared with Gizmodo show the lengths FBI and Pentagon officials went to develop truly unconstrained facial recognition capable of being deployed in public stree\u2026 [+7828 chars]",
+            "article-id": "tech/43"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insiderintelligence.com"
+            },
+            "author": "insider@insider.com (Will Paige)",
+            "title": "Silicon Valley Bank collapse puts lenders on edge and startups at risk",
+            "description": "The tech sector that had propelled Silicon Valley Bank\u2019s growth lost confidence in its viability and pivoted away from it. Are other tech-focused banks also in danger?",
+            "url": "https://www.insiderintelligence.com/content/silicon-valley-bank-collapse-shockwaves-banking",
+            "urlToImage": "https://www.insiderintelligence.com/content/storage/socialsharingdefault/default-image-share.png?im=FitAndFill,width=1200,height=630",
+            "publishedAt": "2023-03-13T16:35:58Z",
+            "content": "The news:Silicon Valley Bankbecame the largest US bank to fail since the 2008 crisis when Californias Department of Financial Protection and Innovation shut it down on Friday and placed it under the \u2026 [+2436 chars]",
+            "article-id": "tech/44"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "htan@insider.com (Huileng Tan)",
+            "title": "China appears to be pulling another U-turn, saying it'll promote the use of AI in daily life just days after reports it blocked ChatGPT",
+            "description": "China appears to have a change of heart about AI, now that its local tech companies are joining the tech race.",
+            "url": "https://www.businessinsider.com/china-ai-chatgpt-local-tech-baidu-artificial-intelligence-race-2023-2",
+            "urlToImage": "https://i.insider.com/63f88bd04ca0e30019ba4469?width=1200&format=jpeg",
+            "publishedAt": "2023-02-24T10:13:08Z",
+            "content": "China appears to have had a change of heart about artificial intelligence.\r\nIt now wants to integrate the tech into daily life, just days after reports emerged that it had blocked its citizens from a\u2026 [+1920 chars]",
+            "article-id": "tech/45"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Nicholas Fearn)",
+            "title": "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses \u2014 if you do it right",
+            "description": "Hotwire Global's Kevin Dulaney has led effective tech-minded directives for over 20 years. Read his tips for boosting tech use within an organization.",
+            "url": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3",
+            "urlToImage": "https://i.insider.com/641358ec0308e00018551731?width=1200&format=jpeg",
+            "publishedAt": "2023-03-17T20:50:14Z",
+            "content": "Kevin Dulaney has a tall order. As the executive vice president of technology and innovation at Hotwire Global, a marketing and communications consultancy, he must deliver an IT strategy that connect\u2026 [+6065 chars]",
+            "article-id": "tech/46"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Baker Hughes to develop carbon capture tech with HIF Global - Reuters",
+            "description": "Baker Hughes to develop carbon capture tech with HIF Global\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9iYWtlci1odWdoZXMtZGV2ZWxvcC1jYXJib24tY2FwdHVyZS10ZWNoLXdpdGgtaGlmLWdsb2JhbC0yMDIzLTAzLTA3L9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-07T13:54:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/47"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. seeks closer India tech ties; no China \"decoupling\"- U.S. ... - Reuters",
+            "description": "U.S. seeks closer India tech ties; no China \"decoupling\"- U.S. ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtc2Vla3MtY2xvc2VyLWluZGlhLXRlY2gtdGllcy1uby1jaGluYS1kZWNvdXBsaW5nLXVzLWNvbW1lcmNlLXNlY3JldGFyeS0yMDIzLTAzLTEwL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-10T11:27:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/48"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "SVB collapse unlikely to hit funding for climate tech hard - Carney - Reuters.com",
+            "description": "SVB collapse unlikely to hit funding for climate tech hard - Carney\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL3N1c3RhaW5hYmxlLWJ1c2luZXNzL3N2Yi1jb2xsYXBzZS11bmxpa2VseS1oaXQtZnVuZGluZy1jbGltYXRlLXRlY2gtaGFyZC1jYXJuZXktMjAyMy0wMy0xNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T16:50:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/49"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Italy's Meloni vetoes takeover deal involving Russia tech giant Yandex - Reuters",
+            "description": "Italy's Meloni vetoes takeover deal involving Russia tech giant Yandex\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvaXRhbHlzLW1lbG9uaS12ZXRvZXMtdGFrZW92ZXItZGVhbC1pbnZvbHZpbmctcnVzc2lhLXRlY2gtZ2lhbnQteWFuZGV4LTIwMjMtMDMtMjMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-23T16:16:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/50"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. policy allowing some U.S. tech shipments to China's Huawei ... - Reuters",
+            "description": "U.S. policy allowing some U.S. tech shipments to China's Huawei ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtcG9saWN5LWFsbG93aW5nLXNvbWUtdXMtdGVjaC1zaGlwbWVudHMtY2hpbmFzLWh1YXdlaS11bmRlci1hc3Nlc3NtZW50LXVzLTIwMjMtMDItMjgv0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T18:34:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/51"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "UAE's Masdar to invest $1.2 bln in British battery storage tech - Reuters",
+            "description": "UAE's Masdar to invest $1.2 bln in British battery storage tech\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS91YWVzLW1hc2Rhci1pbnZlc3QtMTItYmxuLWJyaXRpc2gtYmF0dGVyeS1zdG9yYWdlLXRlY2gtMjAyMy0wMy0wMS_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-01T11:27:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/52"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Tech-sponsored study criticises plan to exclude non-EU cloud vendors - Reuters",
+            "description": "Tech-sponsored study criticises plan to exclude non-EU cloud vendors\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdGVjaC1zcG9uc29yZWQtc3R1ZHktY3JpdGljaXNlcy1wbGFuLWV4Y2x1ZGUtbm9uLWV1LWNsb3VkLXZlbmRvcnMtMjAyMy0wMy0wNi_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T05:16:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/53"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "China to restructure sci-tech ministry to reach self-reliance faster ... - Reuters",
+            "description": "China to restructure sci-tech ministry to reach self-reliance faster ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2NoaW5hL2NoaW5hLXJlc3RydWN0dXJlLXNjaS10ZWNoLW1pbmlzdHJ5LXJlYWNoLXNlbGYtcmVsaWFuY2UtZmFzdGVyLXN0YXRlLW1lZGlhLTIwMjMtMDMtMDcv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-07T09:05:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/54"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "China's DCP Capital aims to sell Singapore tech firm MFS for at ... - Reuters",
+            "description": "China's DCP Capital aims to sell Singapore tech firm MFS for at ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvY2hpbmFzLWRjcC1jYXBpdGFsLWFpbXMtc2VsbC1zaW5nYXBvcmUtdGVjaC1maXJtLW1mcy1sZWFzdC01NTAtbWxuLXNvdXJjZXMtMjAyMy0wMy0xNy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T08:11:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/55"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. approved $23 bln worth of licenses to ship U.S. tech to ... - Reuters",
+            "description": "U.S. approved $23 bln worth of licenses to ship U.S. tech to ...\u00a0\u00a0Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtYXBwcm92ZWQtMjMtYmxuLXdvcnRoLWxpY2Vuc2VzLXNoaXAtdXMtdGVjaC1ibGFja2xpc3RlZC1jaGluZXNlLWNvbXBhbmllcy0yMDIzLTAyLTI4L9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T17:23:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/56"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Israel stocks slip on SVB failure, government vows aid for tech firms - Reuters.com",
+            "description": "Israel stocks slip on SVB failure, government vows aid for tech firms\u00a0\u00a0Reuters.com",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2ZpbmFuY2UvZ2xvYmFsLW1hcmtldHMtaXNyYWVsLXVwZGF0ZS0xLTIwMjMtMDMtMTIv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-03-12T11:00:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+            "article-id": "tech/57"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Snapdragon 8 Gen 2 phones are the first to support built-in 'iSIMs'",
+            "description": "Never mind eSIMs \u2014 your next phone might have a more advanced way of connecting to your carrier. Qualcomm and Thales have confirmed the certification of the first user-ready Integrated SIM, or \"iSIM.\" It promises the same card-free digital sign-ups and securi\u2026",
+            "url": "https://www.engadget.com/snapdragon-8-gen-2-isim-support-150031144.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/DnWitpJUzkZnXEVuJSsKxw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/5d192d10-b76e-11ed-966f-00b166e3839b.cf.jpg",
+            "publishedAt": "2023-02-28T15:00:31Z",
+            "content": "Never mind eSIMs your next phone might have a more advanced way of connecting to your carrier. Qualcomm and Thales have confirmed the certification of the first user-ready Integrated SIM, or \"iSIM.\" \u2026 [+1185 chars]",
+            "article-id": "tech/58"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sarah Fielding",
+            "title": "Apple's AirTag 4-pack is on sale for $90",
+            "description": "Anyone looking to keep track of all their devices is in for a little treat. Apple's AirTag four-pack is currently on sale for $90. It equates to a 9 percent discount, knocking off a bit, but the lowest we've seen was $80. Still not a bad deal now, though, if \u2026",
+            "url": "https://www.engadget.com/apple-airtag-4-pack-sale-134557134.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.YbTB.6Z.95NnqsTimbFbg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/5e6c68b0-c71f-11ed-b7f8-4742d55e229f.cf.jpg",
+            "publishedAt": "2023-03-20T13:45:57Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+1207 chars]",
+            "article-id": "tech/59"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Apple's second-generation Pencil is cheaper than ever",
+            "description": "This is a good time to get an Apple Pencil if you plan to use your iPad for art or note-taking. Amazon is once more selling the second-generation Pencil for a record-low $89, or $40 off. That makes it an easy choice if you have a compatible tablet (more on th\u2026",
+            "url": "https://www.engadget.com/apples-second-generation-pencil-is-cheaper-than-ever-142252568.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/0QAqjY5x2DDRguRBxaD2FA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/a7860790-b9c8-11ed-bbff-b0fefe7bb09e.cf.jpg",
+            "publishedAt": "2023-03-03T14:22:52Z",
+            "content": "This is a good time to get an Apple Pencil if you plan to use your iPad for art or note-taking. Amazon is once more selling the second-generation Pencil for a record-low $89, or $40 off. That makes i\u2026 [+1183 chars]",
+            "article-id": "tech/60"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Blender can now use AI to create images and effects from text descriptions",
+            "description": "Even 3D modelling software is using AI art generators. Stability AI has introduced a Stability for Blender tool that, as the name implies, brings Stable Diffusion's image creation tech to the open-source 3D tool. You can create AI-based textures, effects and \u2026",
+            "url": "https://www.engadget.com/blender-can-now-use-ai-to-create-images-and-effects-from-text-descriptions-175001548.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7Qkno3udluEulZQk6XbVwQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/c7b20600-b918-11ed-bfb7-434fc5197bfe.cf.jpg",
+            "publishedAt": "2023-03-02T17:50:01Z",
+            "content": "Even 3D modelling software is using AI art generators. Stability AI has introduced a Stability for Blender tool that, as the name implies, brings Stable Diffusion's image creation tech to the open-so\u2026 [+1276 chars]",
+            "article-id": "tech/61"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "The 'BlackBerry' trailer looks funnier than you'd expect",
+            "description": "When we learned that a BlackBerry movie was in the works last year, we had no idea it would be something close to a comedy. But judging from the the trailer released today, it's aiming to be a far lighter story than other recent films about tech, like The Soc\u2026",
+            "url": "https://www.engadget.com/blackberry-movie-trailer-jay-baruchel-191747935.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/rt46GIM_ZtYh8wkpzjDv5Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/7f18ac30-c365-11ed-93fe-b34fddf96b73.cf.jpg",
+            "publishedAt": "2023-03-15T19:17:47Z",
+            "content": "When we learned that a BlackBerry movie was in the works last year, we had no idea it would be something close to a comedy. But judging from the the trailer released today, it's aiming to be a far li\u2026 [+1231 chars]",
+            "article-id": "tech/62"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Apple Watch Series 8 is back down to a record low of $329",
+            "description": "This is a good moment to buy a smartwatch to track your early spring runs. Amazon is once again selling the 41mm Product Red Apple Watch Series 8 at a record low price of $329, or a sizeable $70 off. While you won't have your choice of case sizes or colors, y\u2026",
+            "url": "https://www.engadget.com/apple-watch-series-8-record-low-price-143047556.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.yQDkhNNLImE_MVrLDz8qw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/60dda460-a631-11ed-9d77-eb0e8047f441.cf.jpg",
+            "publishedAt": "2023-03-01T14:30:47Z",
+            "content": "This is a good moment to buy a smartwatch to track your early spring runs. Amazon is once again selling the 41mm Product Red Apple Watch Series 8 at a record low price of $329, or a sizeable $70 off.\u2026 [+1047 chars]",
+            "article-id": "tech/63"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Facebook-owner Meta to cut 10,000 staff",
+            "description": "In addition to the 10,000 jobs being lost, 5,000 open roles at the company will be left unfilled.",
+            "url": "https://www.bbc.co.uk/news/technology-64954124",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15840/production/_128982188_microsoftteams-image-2.png",
+            "publishedAt": "2023-03-14T13:57:34Z",
+            "content": "Meta, which owns Facebook, Instagram and WhatsApp, has announced that it will cut 10,000 jobs.\r\nIt comes months after the tech giant laid off 11,000 employees in November 2022. \r\nMeta chief executive\u2026 [+757 chars]",
+            "article-id": "tech/64"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan",
+            "title": "'Absolutely idiotic'. SVB insider says employees are angry with CEO",
+            "description": "The blame game is on for who caused Silicon Valley Bank's collapse, and the tech sector is pointing the finger at SVB CEO Greg Becker for allowing his company to go down in history as the second-biggest US banking failure on record.",
+            "url": "https://www.cnn.com/2023/03/13/business/svb-employees-angry-at-ceo/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230313130109-01-svb-silicon-valley-bank-0313.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-13T19:45:48Z",
+            "content": "The blame game is on for who caused Silicon Valley Banks collapse, and the tech sector is pointing the finger at SVB CEO Greg Becker for allowing his company to go down in history as the second-bigge\u2026 [+4343 chars]",
+            "article-id": "tech/65"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Ukraine\u2019s Startups Kept Innovating Through 1 Year of War",
+            "description": "Founders and coders have shipped updates through blackouts and from bomb shelters. \u201cThere\u2019s no way out except to fight for the future,\u201d one worker says.",
+            "url": "https://www.wired.com/story/ukraines-startups-kept-innovating-through-1-year-of-war/",
+            "urlToImage": "https://media.wired.com/photos/63f95cc48320ec773f818f58/191:100/w_1280,c_limit/Ukraine-Startups-Bomb-Shelter-1239407539.jpg",
+            "publishedAt": "2023-02-25T13:00:00Z",
+            "content": "Many people here and across the world were pissed off about some of his posts, says\u00a0Pranskeviius, who is based in Kyiv. But what weve seen is that Starlink has continued to work. Its been invaluable \u2026 [+4276 chars]",
+            "article-id": "tech/66"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Megan Farokhmanesh",
+            "title": "Netflix Games Is Still Happening. Just Don\u2019t Hold Your Breath",
+            "description": "The streaming giant gave an update on upcoming releases and why it\u2019s (ahem) playing the long game.",
+            "url": "https://www.wired.com/story/netflix-gaming-monument-valley/",
+            "urlToImage": "https://media.wired.com/photos/6414c67b2efc81f52a54c6bf/191:100/w_1280,c_limit/Netflix-Games-Highwater-Games.jpg",
+            "publishedAt": "2023-03-20T14:00:00Z",
+            "content": "Netflix Games wants to cater to every kind of player. Not only that, says head of external games\u00a0Leanne Loombe, it wants to be\u00a0a publisher that developers from all around the world want to work with.\u2026 [+3049 chars]",
+            "article-id": "tech/67"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Laura Jones",
+            "title": "Russia's Technological Advantage Has Been No Match for Ukraine's Ingenuity",
+            "description": "In less than a year, Ukraine\u2019s military has emerged as a modern, effective fighting force in large part due to an abundance of technology provided by the United States and its NATO allies. Read more...",
+            "url": "https://gizmodo.com/ukraine-russia-war-tech-drones-missiles-no-match-1850170615",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/171dee5cd3304daf87507295b8265e48.jpg",
+            "publishedAt": "2023-03-05T14:10:00Z",
+            "content": "In less than a year, Ukraines military has emerged as a modern, effective fighting force in large part due to an abundance of technology provided by the United States and its NATO allies. \r\nOn Feb. 2\u2026 [+7308 chars]",
+            "article-id": "tech/68"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "What's Different About These Tech Industry Layoffs?",
+            "description": "\"According to one count, more than 280,000 people were laid off from tech jobs in 2022 and the first two months of 2023,\" notes a new blog post at Stack Overflow. \nBut then it asks the question: \"What's different about these layoffs?\"\n\n\n[T]he current economy \u2026",
+            "url": "https://it.slashdot.org/story/23/03/20/0326203/whats-different-about-these-tech-industry-layoffs",
+            "urlToImage": "https://a.fsdn.com/sd/topics/it_64.png",
+            "publishedAt": "2023-03-20T08:04:00Z",
+            "content": "\"According to one count, more than 280,000 people were laid off from tech jobs in 2022 and the first two months of 2023,\" notes a new blog post at Stack Overflow.But then it asks the question: \"What'\u2026 [+2536 chars]",
+            "article-id": "tech/69"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brad Anderson",
+            "title": "5 Benefits Engineers Can Bring to a Tech Hiring Team",
+            "description": "The tech job market is in a perpetual state of flux. One day, there\u2019s news of talent shortages; the next, rampant layoffs. But one thing remains constant: there will always be a need for skilled tech workers. Whether the market is booming or a recession looms\u2026",
+            "url": "https://readwrite.com/tech-hiring/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/03/tech-hiring.jpg",
+            "publishedAt": "2023-03-21T15:00:08Z",
+            "content": "The tech job market is in a perpetual state of flux. One day, theres news of talent shortages; the next, rampant layoffs. But one thing remains constant: there will always be a need for skilled tech \u2026 [+8252 chars]",
+            "article-id": "tech/70"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+            "title": "ChatGPT is everywhere these days, but do we really need it?",
+            "description": "ChatGPT can do some amazing things, but is it smart to become so reliant on tech automation?",
+            "url": "https://www.androidcentral.com/apps-software/chatgpt-is-everywhere-these-days-but-do-we-really-need-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oGfoAaCguzXd9tDSyTwKuR-1200-80.jpg",
+            "publishedAt": "2023-03-21T13:00:00Z",
+            "content": "ChatGPT is the hottest term in tech since the smartphone started trending a decade and a half ago. It packages all the most interesting parts of consumer-facing AI technology into a friendly chatbot,\u2026 [+5047 chars]",
+            "article-id": "tech/71"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Omar L. Gallaga",
+            "title": "Immersive Video Games Are Coming to a Theater Near You",
+            "description": "The founder of Tough Mudder\u2019s next venture is the Interactive Gamebox, affectionately called \"a theme park in a box.\"",
+            "url": "https://www.wired.com/story/immersive-gameboxes-irl-cooperative-gaming/",
+            "urlToImage": "https://media.wired.com/photos/6407a6962ebbc2d0389fc2ef/191:100/w_1280,c_limit/Immersive-Gamebox-Featured-Gear.jpg",
+            "publishedAt": "2023-03-08T14:00:00Z",
+            "content": "Time is running out inside the Gamebox, and you've got to jump or die. You're a\u00a0contestant in Squid Game, the hit South Korean Netflix series, but in this interactive version, you're playing inside a\u2026 [+2605 chars]",
+            "article-id": "tech/72"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Apple's 10.2-inch iPad is back on sale for $250",
+            "description": "Now is a good time to go shopping if you're pining for Apple's most affordable tablet. Amazon is once again selling the 10.2-inch iPad with WiFi and 64GB of storage for $250, or $79 off. The discount makes it easier to justify if you're looking for a no-frill\u2026",
+            "url": "https://www.engadget.com/apples-102-inch-ipad-is-back-on-sale-for-250-133207623.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Yh9FwoGxcsmOfwndmePj7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-04/cf26a430-bf14-11ec-afde-a330761860a4.cf.jpg",
+            "publishedAt": "2023-03-14T13:32:07Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+1352 chars]",
+            "article-id": "tech/73"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Amazon offers Mar10 Day sale discounts on popular Nintendo Switch games early",
+            "description": "March 10th might not be for another few days, but that\u2019s not stopping retailers like Amazon from offering Mario Day deals early. Ahead of Friday, the company has discounted a handful of Nintendo Switch titles that feature the mustachioed plumber. For instance\u2026",
+            "url": "https://www.engadget.com/amazon-offers-mar10-day-sale-discounts-on-popular-nintendo-switch-games-early-162857323.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/s7iBEULFwINdQVI2Qmf99g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-05/e80b9d40-b40a-11eb-97f3-676e1398a862.cf.jpg",
+            "publishedAt": "2023-03-05T16:28:57Z",
+            "content": "March 10th might not be for another few days, but thats not stopping retailers like Amazon from offering Mario Day deals early. Ahead of Friday, the company has discounted a handful of Nintendo Switc\u2026 [+1421 chars]",
+            "article-id": "tech/74"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Apple's 10.9-inch iPad is $50 off right now",
+            "description": "Apple's 10.9-inch 2022 iPads are improved in almost every way, including the design, performance, battery life, front facing camera and more. One of the biggest knocks is the price, so if you've been holding out for a deal, Amazon now has them on sale at pric\u2026",
+            "url": "https://www.engadget.com/apples-109-inch-ipad-is-50-off-right-now-093646112.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4CERia6vS1JTBI5TsoiBXw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/aed7e570-c7c6-11ed-9efe-49fac361b443.cf.jpg",
+            "publishedAt": "2023-03-21T09:36:46Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+1433 chars]",
+            "article-id": "tech/75"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Senate bill would give Commerce Secretary the power to ban TikTok as a 'security threat'",
+            "description": "It's not just House representatives that want the federal government to ban TikTok. A bipartisan alliance of senators has introduced a bill that would give the Commerce Secretary the authority to ban TikTok and other foreign technology perceived as a national\u2026",
+            "url": "https://www.engadget.com/senate-bill-would-give-commerce-secretary-the-power-to-ban-tiktok-as-a-security-threat-202139609.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/eaCISwTJpTkGRu46RJqrjQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/b4009900-bd1e-11ed-b5ff-fb7a1271133d.cf.jpg",
+            "publishedAt": "2023-03-07T20:21:39Z",
+            "content": "It's not just House representatives that want the federal government to ban TikTok. A bipartisan alliance of senators has introduced a bill that would give the Commerce Secretary the authority to ban\u2026 [+1606 chars]",
+            "article-id": "tech/76"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "This is Nokia\u2019s new logo",
+            "description": "For the first time in nearly 60 years, one-time smartphone giant Nokia is changing its iconic logo. On Sunday, before the official start of Mobile World Congress Barcelona, the company unveiled a new brand identity, and it\u2019s a dramatic change. Gone is the ico\u2026",
+            "url": "https://www.engadget.com/this-is-nokias-new-logo-170934312.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qIoCJ6SEQJCNZJ5Ww9ulmg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/42911f70-b5f7-11ed-aee9-cf158d99b41d.cf.jpg",
+            "publishedAt": "2023-02-26T17:09:34Z",
+            "content": "For the first time in nearly 60 years, one-time smartphone giant Nokia is changing its iconic logo. On Sunday, before the official start of Mobile World Congress Barcelona, the company unveiled a new\u2026 [+1559 chars]",
+            "article-id": "tech/77"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Raspberry Pi lets you have your own global shutter camera for $50",
+            "description": "Global shutter sensors with no skew or distortion have been promised as the future of cameras for years now, but so far only a handful of products with that tech have made it to market. Now, Raspberry Pi is offering a 1.6-megapixel global shutter camera modul\u2026",
+            "url": "https://www.engadget.com/raspberry-pi-lets-you-have-your-own-global-shutter-camera-for-50-104547026.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/81RYuH6Jw8a2mwSv8KGK8Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ef6b03b0-be5c-11ed-be57-3b64f257de9c.cf.jpg",
+            "publishedAt": "2023-03-09T10:45:47Z",
+            "content": "Global shutter sensors with no skew or distortion have been promised as the future of cameras for years now, but so far only a handful of products with that tech have made it to market. Now, Raspberr\u2026 [+1619 chars]",
+            "article-id": "tech/78"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Pinterest algorithms are making it easy for creeps to make boards featuring underage girls",
+            "description": "NBC News has discovered that Pinterest's recommendation algorithms are making it easier for pedophiles to create boards full of images of underage girls. After an initial search, Pinterest will start suggesting related searches that can easily be misused. The\u2026",
+            "url": "https://www.engadget.com/pinterest-algorithms-are-making-it-easy-for-creeps-to-make-boards-featuring-underage-girls-210216861.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/f8bHOvvlpvMxIu.nrzVrEw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/67da76a0-beb2-11ed-bbea-ab3bc92a90f7.cf.jpg",
+            "publishedAt": "2023-03-09T21:02:16Z",
+            "content": "NBC News has discovered that Pinterest's recommendation algorithms are making it easier for pedophiles to create boards full of images of underage girls. After an initial search, Pinterest will start\u2026 [+1876 chars]",
+            "article-id": "tech/79"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Rob Beschizza",
+            "title": "Samsung faked \"moon photo\" tech",
+            "description": "Take a photo of the moon with a Samsung smartphone and it'll be remarkably crisp and detailed. Turns out, though, that the company's gadgets are faking it by slapping AI-aligned moon textures onto the shots. Reddit user ibreakphotos demonstrated the shenaniga\u2026",
+            "url": "https://boingboing.net/2023/03/15/samsung-faked-moon-photo-tech.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/image-30.png?fit=838%2C549&ssl=1",
+            "publishedAt": "2023-03-15T12:25:25Z",
+            "content": "Take a photo of the moon with a Samsung smartphone and it'll be remarkably crisp and detailed. Turns out, though, that the company's gadgets are faking it by slapping AI-aligned moon textures onto th\u2026 [+1728 chars]",
+            "article-id": "tech/80"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "GravaStar's latest speaker looks like a tiny crawling robot",
+            "description": "GravaStar, known for science-fiction-inspired speakers with surprisingly solid sound, introduced a new model today. In addition to playing music, the Supernova Bluetooth speaker doubles as a lantern \u2014 while resembling something that belongs in the Star Wars p\u2026",
+            "url": "https://www.engadget.com/gravastars-latest-speaker-looks-like-a-tiny-crawling-robot-140001000.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/TwUs2AswX5_wsX6becTeeA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/bf6b0410-b46d-11ed-bbff-577f76645490.cf.jpg",
+            "publishedAt": "2023-02-28T14:00:01Z",
+            "content": "GravaStar, known for science-fiction-inspired speakers with surprisingly solid sound, introduced a new model today. In addition to playing music, the Supernova Bluetooth speaker doubles as a lantern \u2026 [+1341 chars]",
+            "article-id": "tech/81"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Kalyeena Makortoff Banking correspondent",
+            "title": "European markets spooked by US bank shares sell-off",
+            "description": "FTSE 100 down almost 2% as troubles at tech-focused lender Silicon Valley Bank cause ripplesAn overnight sell-off of US banking stocks, sparked by troubles at the tech-focused lender Silicon Valley Bank (SVB), has seeped into European markets and sent the FTS\u2026",
+            "url": "https://www.theguardian.com/business/2023/mar/10/european-markets-spooked-by-us-bank-shares-sell-off",
+            "urlToImage": "https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/34_328_4804_2884/master/4804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb56d2224377dae7a18cd5296dba0276",
+            "publishedAt": "2023-03-10T12:41:50Z",
+            "content": "An overnight sell-off of US banking stocks, sparked by troubles at the tech-focused lender Silicon Valley Bank (SVB), has seeped into European markets and sent the FTSE 100 down almost 2% on Friday.\r\u2026 [+3415 chars]",
+            "article-id": "tech/82"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jennifer Rankin in Brussels",
+            "title": "EU sets target of 40% of clean tech to be made within the bloc by 2030",
+            "description": "Draft regulation is response to US subsidies and Chinese state support for green-tech sectorThe EU executive is eyeing a target that would see 40% of the bloc\u2019s clean tech made in Europe by the end the decade, as part of a response to a wave of subsidies from\u2026",
+            "url": "https://www.theguardian.com/world/2023/mar/07/eu-sets-target-of-40-of-clean-tech-to-be-made-within-the-bloc-by-2030",
+            "urlToImage": "https://i.guim.co.uk/img/media/a6eaa392140ffccd4e33d710cfad1e07b9e0988c/0_221_5500_3302/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=860a51c39f89682ea0646178aa68b2da",
+            "publishedAt": "2023-03-07T18:13:32Z",
+            "content": "The EU executive is eyeing a target that would see 40% of the blocs clean tech made in Europe by the end the decade, as part of a response to a wave of subsidies from the US and China.\r\nAccording to \u2026 [+4063 chars]",
+            "article-id": "tech/83"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Can mind-controlled VR games help stroke patients?",
+            "description": "The neurotech firm Cogitat is among those building a system which translates brain activity into actions.",
+            "url": "https://www.bbc.co.uk/news/technology-64720533",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0BD0/production/_128742030_cogitat_2.jpg",
+            "publishedAt": "2023-02-25T00:59:16Z",
+            "content": "A system which can translate human brain activity into actions without any physical movement is being developed by a neurotech firm called Cogitat.\r\nWhen wearing a prototype headset, basic actions in\u2026 [+4254 chars]",
+            "article-id": "tech/84"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "alloyd@insider.com (Alcynna Lloyd)",
+            "title": "A 24-year-old Black tattoo artist explains why she and many others are fleeing Austin: 'The soul of the city has changed'",
+            "description": "Black residents are leaving Austin for cities like Atlanta or Houston as the Texas tech hub becomes more unaffordable.",
+            "url": "https://www.businessinsider.com/black-people-fleeing-austin-unaffordable-and-soulless-2023-3",
+            "urlToImage": "https://i.insider.com/640ba7a9d81e7e0018be127a?width=1200&format=jpeg",
+            "publishedAt": "2023-03-12T11:00:00Z",
+            "content": "Imani Tatum, a 24-year old Black woman, moved to Austin for work in 2020 after a lengthy stint of traveling the United States in her van. In 2021, she decided to open her own tattoo studio, Nana's Pr\u2026 [+4008 chars]",
+            "article-id": "tech/85"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sandra Laville Environment correspondent",
+            "title": "Innovative heat tech could save England\u2019s swimming pools from closure",
+            "description": "Twenty pools may be upgraded this year after startup uses energy from small data centre to heat waterPublic swimming pools facing closure because of soaring energy bills have been offered a lifeline via new technology to heat the water.Mark Bjornsgaard, the c\u2026",
+            "url": "https://www.theguardian.com/business/2023/mar/14/innovative-heat-tech-save-england-swimming-pools-from-closure",
+            "urlToImage": "https://i.guim.co.uk/img/media/1abd788c04d08a4f405f8d95667ac8b3ce280891/0_360_5400_3240/master/5400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baf2feddcbd8fd8005a9d933b3fa6810",
+            "publishedAt": "2023-03-14T10:25:01Z",
+            "content": "Public swimming pools facing closure because of soaring energy bills have been offered a lifeline via new technology to heat the water.\r\nMark Bjornsgaard, the chief executive of the tech startup Deep\u2026 [+2819 chars]",
+            "article-id": "tech/86"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alaina Demopoulos",
+            "title": "\u2018Scanners are complicated\u2019: why Gen Z faces workplace \u2018tech shame\u2019",
+            "description": "They may be digital natives, but young workers were raised on user-friendly apps \u2013 and office devices are far less intuitiveGarrett Bemiller, a 25-year-old New Yorker, has spent his entire life online. He grew up in front of screens, swiping from one app to t\u2026",
+            "url": "https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers",
+            "urlToImage": "https://i.guim.co.uk/img/media/c42dabfc09403e179fbd1fc4a61822cff96b0e21/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14f112c8183afc52f916a0d7770bc66d",
+            "publishedAt": "2023-02-28T06:00:15Z",
+            "content": "Garrett Bemiller, a 25-year-old New Yorker, has spent his entire life online. He grew up in front of screens, swiping from one app to the next. But theres one skill set Bemiller admits hes less comfo\u2026 [+6853 chars]",
+            "article-id": "tech/87"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Business Insider)",
+            "title": "Read 12 pitch decks that helped media and tech startups nab millions in funding to disrupt entertainment",
+            "description": "Tech is disrupting all parts of media and entertainment, and investors are rushing to cash in.",
+            "url": "https://www.businessinsider.com/pitch-deck-examples-that-helped-media-entertainment-startups-raise-millions-2023-3",
+            "urlToImage": "https://i.insider.com/640b7bd808f27b001848b9c4?width=1200&format=jpeg",
+            "publishedAt": "2023-03-17T21:29:42Z",
+            "content": "Technology is upending all facets of media and entertainment. New startups are raising capital to jump on audiences' shift to streaming, change hidebound production practices, and more.\r\nInsider talk\u2026 [+1308 chars]",
+            "article-id": "tech/88"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sean Lyngaas",
+            "title": "Russian hackers targeted European military and transport organizations in newly discovered spying campaign",
+            "description": "Russian military-linked hackers used a critical flaw in Microsoft's email software to target -- and in some cases infiltrate -- the networks of European military, energy and transportation organizations in an apparent spying campaign that went undetected for \u2026",
+            "url": "https://www.cnn.com/2023/03/15/politics/russian-hackers-europe-military-organizations-microsoft/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315090848-russian-hackers-target-european-military-organizations.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-15T13:39:54Z",
+            "content": "Russian military-linked hackers used a critical flaw in Microsofts email software to target and in some cases infiltrate the networks of European military, energy and transportation organizations in \u2026 [+2434 chars]",
+            "article-id": "tech/89"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+            "title": "PSVR 2 controller problems are causing some real frustrations",
+            "description": "Sony's PlayStation VR2 might be cutting-edge, but it's not immune to the problems that can happen to any tech product.",
+            "url": "https://www.androidcentral.com/gaming/virtual-reality/psvr-2-controller-buttons-not-working-youre-not-alone",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cJQhrr9wRmYkVhGoqnDpcQ-1200-80.jpg",
+            "publishedAt": "2023-03-03T19:37:41Z",
+            "content": "<ul><li>Several users on Twitter and Reddit have reported issues with the PlayStation VR2's Sense controllers.</li><li>These users have had problems with the X and R2 buttons on the right controller \u2026 [+1550 chars]",
+            "article-id": "tech/90"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ddefrancesco@businessinsider.com (Dan DeFrancesco)",
+            "title": "Everything you need to know about a crazy weekend in the wake of Silicon Valley Bank's failure",
+            "description": "A key ally for the tech industry in Silicon Valley Bank was toppled on Friday. Here's how the industry reacted.",
+            "url": "https://www.businessinsider.com/silicon-valley-bank-failure-weekend-recap-tech-industry-2023-3",
+            "urlToImage": "https://i.insider.com/640dd6d9ff11870018c4e58f?width=1200&format=jpeg",
+            "publishedAt": "2023-03-13T11:55:00Z",
+            "content": "What a weekend!\u00a0Dan DeFrancesco in NYC.\u00a0\r\nWhat do you think we've got for stories today? It's all about Silicon Valley Bank going down and the knock-on effects.\r\nIf you're not up to speed, here's a q\u2026 [+6048 chars]",
+            "article-id": "tech/91"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sbhaimiya@insider.com (Sawdah Bhaimiya)",
+            "title": "A Silicon Valley Bank VP, whose grandmother and aunt also worked at the bank, said he's 'heartbroken' for startups affected by its implosion",
+            "description": "Silicon Valley Bank collapsed late last week, sending shockwaves through the tech sector and threatening thousands of startups.",
+            "url": "https://www.businessinsider.com/silicon-valley-bank-vp-heartbroken-for-startups-affected-by-collapse-2023-3",
+            "urlToImage": "https://i.insider.com/640ee76fff11870018c4f375?width=1200&format=jpeg",
+            "publishedAt": "2023-03-13T12:31:05Z",
+            "content": "A Silicon Valley Bank vice president who worked at the lender for 13 years took to LinkedIn to share his thoughts about its collapse saying he's \"heartbroken\" for all of the startups affected by the \u2026 [+1989 chars]",
+            "article-id": "tech/92"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "hchowdhury@insider.com (Hasan Chowdhury)",
+            "title": "Facebook and Twitter scrambled our brains and poisoned our politics. AI poses an even bigger threat.",
+            "description": "AI tools like ChatGPT could wind up hypercharging everything from financial scams to government surveillance, according to tech experts.",
+            "url": "https://www.businessinsider.com/ai-technology-chatgpt-openai-bing-threat-society-economy-social-media-2023-3",
+            "urlToImage": "https://i.insider.com/640f2a59340fa00018fdb1fa?width=1200&format=jpeg",
+            "publishedAt": "2023-03-14T09:02:00Z",
+            "content": "When Sam Altman was sunsetting his first startup in early 2012, there was little indication that his path ahead would parallel that of Silicon Valley's then-wunderkind Mark Zuckerberg.\r\nWhile Altman \u2026 [+11649 chars]",
+            "article-id": "tech/93"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mchittum@insider.com (Morgan Chittum)",
+            "title": "US stocks trade mixed as inflation concerns keep traders on edge over higher rates",
+            "description": "The S&P 500 and the tech-heavy Nasdaq Composite were both on track for their second consecutive losing week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-inflation-fed-outlook-interest-rates-2023-3",
+            "urlToImage": "https://i.insider.com/63f8c9934ca0e30019ba4b45?width=1200&format=jpeg",
+            "publishedAt": "2023-03-02T14:45:17Z",
+            "content": "US stocks stocks were mixed on Thursday as traders continue to mull the prospect of higher interest rates amid signs the economy remains in high gear.\u00a0\r\nAll three major indexes were on track for a lo\u2026 [+1519 chars]",
+            "article-id": "tech/94"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "edodd@insider.com (Ethan Dodd)",
+            "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
+            "description": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
+            "url": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
+            "urlToImage": "https://i.insider.com/6402378937125e0018a101cb?width=1200&format=jpeg",
+            "publishedAt": "2023-03-03T18:16:50Z",
+            "content": "Where tech companies and investors see gold, regulators see potential for overhyped marketing and fraud.\r\nSince its November 2022 launch, ChatGPT has mesmerized millions and sparked an arms race amon\u2026 [+4242 chars]",
+            "article-id": "tech/95"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bnolan@insider.com (Beatrice Nolan,Kate Duffy)",
+            "title": "From free meals to massages, here are 8 of the top perks enjoyed by Big Tech workers",
+            "description": "Google used to take employees skiing and Twitter treated staff to free meals before the tech sector started slashing costs.",
+            "url": "https://www.businessinsider.com/tech-workers-office-perks-ski-trips-massages-meals-list-2023-2",
+            "urlToImage": "https://i.insider.com/63f5f92d5ca81e001855ac7b?width=1200&format=jpeg",
+            "publishedAt": "2023-02-26T10:15:00Z",
+            "content": "The tech industry was known for its extravagant perks on top of eye-watering salaries, but now some of the main players are scaling back.\r\nBig Tech companies such as Google and Meta have tried to cut\u2026 [+4260 chars]",
+            "article-id": "tech/96"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Salesforce stock has 26% upside as Marc Benioff's company shows resolve on 'disciplined growth,' Bank of America says",
+            "description": "Bank strategists said the company's latest earnings report, which beat expectations, showed the tech firm's commitment to margin expansion.",
+            "url": "https://markets.businessinsider.com/news/stocks/salesforce-stock-prediction-cloud-tech-marc-benioff-bank-of-america-2023-3",
+            "urlToImage": "https://i.insider.com/6400e15d934c2c0018026113?width=1200&format=jpeg",
+            "publishedAt": "2023-03-02T18:35:52Z",
+            "content": "Bank of America strategists raised their price objective for Salesforce stock from $200 to $235 on Thursday, following a better-than-expected fourth-quarter earnings report from the company on Wednes\u2026 [+1523 chars]",
+            "article-id": "tech/97"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "avillasboas@insider.com (Antonio Villas-Boas)",
+            "title": "Google Pixel 7 review: A feature-packed Android phone with a price that's hard to ignore",
+            "description": "The $600 Pixel 7 is a no-brainer for its value and premium look and feel, but Google's camera tech is showing some blemish.",
+            "url": "https://www.businessinsider.com/guides/tech/google-pixel-7-review",
+            "urlToImage": "https://i.insider.com/63fd04e2d5d80a00182763ac?width=1200&format=jpeg",
+            "publishedAt": "2023-02-28T22:45:30Z",
+            "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nGoogle's new Pixel 7 defies the belief that a modern premium phone has to cost $800 or more. It has the latest s\u2026 [+11898 chars]",
+            "article-id": "tech/98"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Reuters in Beijing",
+            "title": "Missing Chinese billionaire banker Bao Fan assisting authorities in investigation, company says",
+            "description": "Tech dealmaker reported missing 10 days ago in the latest case of a top Chinese executive going missing during Xi Jinping\u2019s anti-corruption driveThe Chinese billionaire tech banker Bao Fan, who was reported missing 10 days ago, is cooperating with Chinese aut\u2026",
+            "url": "https://www.theguardian.com/world/2023/feb/27/bao-fan-missing-chinese-billionaire-banker-assisting-investigation-company-china-renaissance-holdings-says",
+            "urlToImage": "https://i.guim.co.uk/img/media/ea291551b3f21f3d856764b1ab8c1b1132367711/0_73_3364_2018/master/3364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0d7bc051ad01e0170f5a6dd6ed86d3a",
+            "publishedAt": "2023-02-27T00:25:16Z",
+            "content": "The Chinese billionaire tech banker Bao Fan, who was reported missing 10 days ago, is cooperating with Chinese authorities conducting an investigation, a China-based boutique bank has said.\r\nIt is th\u2026 [+1864 chars]",
+            "article-id": "tech/99"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Moz\u00e9e)",
+            "title": "Investors should brace for a sell-off in tech stocks with Fed chair Powell set to deliver a hawkish message to lawmakers, Gene Munster says",
+            "description": "A hawkish message from Fed boss Jerome Powell this week will \"lay the groundwork\" for a sell-off in tech stocks, Deepwater's Gene Munster said.",
+            "url": "https://markets.businessinsider.com/news/stocks/tech-stock-outlook-selloff-nasdaq-fed-powell-testimony-inflation-economy-2023-3",
+            "urlToImage": "https://i.insider.com/63e29cd527e5db0018ee966b?width=1200&format=jpeg",
+            "publishedAt": "2023-03-06T19:42:50Z",
+            "content": "Expect to see a slump in technology stocks as Federal Reserve Chairman Jerome Powell this week signals to US lawmakers that interest rates will likely run even higher as the fight against inflation c\u2026 [+2271 chars]",
+            "article-id": "tech/100"
+        }
+    ]
+}
