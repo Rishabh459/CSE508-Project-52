@@ -11,6 +11,7 @@ from keybert import KeyBERT
 from textblob import TextBlob
 import pandas as pd
 nltk.download('stopwords')
+import textacy
 
 # Extract keywords from tweets
 def extract_keywords(tweets):
@@ -38,6 +39,18 @@ def extract_keywords_yake(tweets):
         keywords_yake = kw_extractor.extract_keywords(tweet)
         keywords.extend([keyphrase[0] for keyphrase in keywords_yake])
     return keywords
+
+
+# textacy to extract keywords
+def extract_keywords_textacy(tweets):
+    keywords = []
+    for tweet in tweets:
+        doc = textacy.make_spacy_doc(tweet, lang="en_core_web_sm")
+        noun_chunks = textacy.extract.noun_chunks(doc, min_freq=1)
+        keywords.extend([chunk.text for chunk in noun_chunks if chunk.text not in stopwords.words("english") and len(chunk.text) > 3])
+    keywords = list(set(keywords))
+    return keywords
+
 
 # Get news articles using keywords
 def get_news_articles(keywords):
@@ -102,7 +115,10 @@ def recommend_articles(username, k, kwe_metric):
     elif kwe_metric == 3:
         keywords = extract_keywords_bert(tweets)
         articles = get_news_articles(keywords)
-    
+    elif kwe_metric == 4:
+        keywords = extract_keywords_textacy(tweets)
+        articles = get_news_articles(keywords)
+
     ranked_articles = rank_articles(articles, keywords)
     return (ranked_articles[:k]+ranked_articles[-k:], tweets_polarity)
 

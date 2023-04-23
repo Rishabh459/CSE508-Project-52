@@ -37,7 +37,7 @@ def main():
 		st.subheader("Enter Relevant Details:")
 		twitter_id = selectbox("Select a Twitter ID:", user_list)
 		e_metric = selectbox("Select a Weighting Scheme:", ["Binary Weighting Scheme","Raw Count Weighting Scheme", "Term Frequency Weighting Scheme", "Log Normalization Weighting Scheme", "Double Normalization Weighting Scheme"])
-		kwe_metric = selectbox("Select a Keyword Extraction Method:", ["None","YAKE", "RAKE", "KeyBert"])
+		kwe_metric = selectbox("Select a Keyword Extraction Method:", ["None","YAKE", "RAKE", "KeyBert", "Textacy"])
 		number_news = st.number_input('How many news articles do you want?', 8,12)
 
 		if st.button("Search"):
@@ -54,7 +54,7 @@ def main():
 					st.write("%s."%str(i+1), top_x_news[i][2], "[🔗](%s)" % top_x_news[i][1])
 
 			else:
-				diction = {"YAKE": 1,"RAKE": 2, "KeyBert":3}
+				diction = {"YAKE": 1,"RAKE": 2, "KeyBert":3, "Textacy":4}
 
 				lst1_url, lst1_title, lst2_url, lst2_title = kwe_result(twitter_id, diction[kwe_metric], number_news)
 
