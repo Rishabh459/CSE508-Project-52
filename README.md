@@ -13,15 +13,34 @@ Another problem with current news platforms is that they tend to show polarised 
 ### Proposed Solution-
 Creating a personalised news recommendation system that considers users' interests based on their tweets and recommends relevant articles. Most users use Twitter to get daily updates on what is happening, and our model helps them get personalised news articles that they might like or might be looking for. For the model, we consider different factors like keyword extraction, similarity matching and sentiment analysis. Based on all the above mentioned, we shortlist the list of relevant news articles for a user and show him the top ‘k’ relevant articles of both parities to produce a non-polarised result.
 
+### Workflow of our Model-
+We take TwitterID, Number of News articles (X), the Weighting Scheme and the Keyword Extraction Method from the user. After applying the models based on the weighting scheme mentioned by the user we give the output as top X articles. If the user has chosen a keyword extraction method then we use that specific method and sentiment analysis to retrieve X different news articles of both similar opinion as the user (according to the user's tweets) and X news articles of the opposite opinion.
+
+*Workflow:*
+
+<a href="images/images/workflow.jpg"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/workflow.jpg" align="center" height="300" width="400" ></a>
+
 
 ### How does TweetPress look like?
-![images/images/Home Screen.png](https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/Home%20Screen.png)
+*Home Page:*
+
+<a href="images/images/Home Screen.png"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/Home%20Screen.png" align="center" height="300" width="600" ></a>
+
+*Search News Page:*
+
+<a href="images/images/search_news_page.png"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/search_news_page.png" align="center" height="300" width="600" ></a>
 
 ### Sample Outputs-
 *Sample Output 1:*
-![images/images/Sample Output1.png](https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/Sample%20Output1.png)
+
+<a href="images/images/sample_output_1.png"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/sample_output_1.png" align="center" height="300" width="600" ></a>
 
 *Sample Output 2:*
-![images/images/Sample Output2.png](https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/Sample%20Output2.png)
+
+<a href="images/images/sample_output_2.png"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/sample_output_2.png" align="center" height="300" width="600" ></a>
+
+*Sample Output 3:*
+
+<a href="images/images/sample_output_3.png"><img src="https://github.com/Rishabh459/CSE508-Project-52/blob/main/images/images/sample_output_3.png" align="center" height="300" width="600" ></a>
 
 -----
