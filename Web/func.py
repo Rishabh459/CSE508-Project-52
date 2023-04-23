@@ -63,7 +63,8 @@ def recommend_top_10_articles(similarity_matrix, x):
             if((key,value[0], value[1]) not in lst):
                 lst.append((key,value[0], value[1]))
     # return top x in lst
-    return lst[x:]
+    lst = lst[:x]
+    return lst
 
 
 def kwe_result(username, kwe_metric, no):
