@@ -29,6 +29,11 @@ def extract_keywords_bert(tweets):
     for tweet in tweets:
         keyword_list = model.extract_keywords(tweet, keyphrase_ngram_range=(1, 1), stop_words='english', top_n=min(12, int(len(tweet.split())/2)))
         keywords.extend([keyphrase[0] for keyphrase in keyword_list])
+    # remove stopwords
+    keywords = [keyword for keyword in keywords if keyword not in stopwords.words("english")]
+    keywords = list(set(keywords))
+    print(keywords)
+
     return keywords
 
 # use YAKE to extract keywords
