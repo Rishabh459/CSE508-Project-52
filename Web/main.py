@@ -1,9 +1,4 @@
-from asyncio.windows_events import NULL
 import streamlit as st
-# import pandas as pd 
-import streamlit.components.v1 as stc
-# from datetime import date
-# import plotly.express as px
 from func import *
 from streamlit_extras.mention import mention
 from streamlit_extras.let_it_rain import rain
@@ -13,19 +8,9 @@ import time
 
 def main():
 	
-	user_list = ["Virat Kohli","Greta Thunberg","Sundar Pichai", "Samay Raina"]
+	user_list = ["Narendra Modi","Greta Thunberg", "Sundar Pichai", "Samay Raina", "Virat Kohli"]
+
 	st.set_page_config(page_title="TweetPress", page_icon="🦉", layout="centered", initial_sidebar_state="expanded")
-
-	page_bg_img = '''
-	<style>
-	body {
-	background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
-	background-size: cover;
-	}
-	</style>
-	'''
-
-	st.markdown(page_bg_img, unsafe_allow_html=True)
 
 	st.markdown(""" <style>
 	#MainMenu {visibility: hidden;}
@@ -33,7 +18,6 @@ def main():
 	</style> """, unsafe_allow_html=True)
 
 	st.sidebar.title("TweetPress🦉")
-
 	menu = ["Home","Search News","Creators"]
 	choice = st.sidebar.radio(" ",menu)
 
@@ -46,62 +30,42 @@ def main():
 		my_expander2 = st.expander("**How does it work?**")
 		my_expander2.write("The system uses the Twitter API to fetch the latest tweets from the user's Twitter handle. The system then uses Newsapi.org to fetch the recent news articles. The system then recommends the latest news articles to the user based on their twitter activity.")
 		my_expander3 = st.expander("**How to use TweetPress?**")
-		my_expander3.write("To use TweetPress, you can enter a Twitter handle, the number of news articles you want to see and the evaluation metric you would want to use for extracting the relevant news articles. Then you can view the latest news articles recommended to you.")
+		my_expander3.write("To use TweetPress, you can enter a Twitter handle, the number of news articles you want to see, the evaluation metric and the keyword extraction method you would want to use for extracting the relevant news articles. Then you can view the latest news articles recommended to you.")
 
-	# elif choice == "New User":
-	# 	st.subheader("Enter your Details:")
-	# 	bname = st.text_input("Name")
-	# 	bemail = st.text_input("Email")
-	# 	btwitterid = st.text_input("Twitter ID")
-	# 	if st.button("Register"):
-	# 		add_new_user(bname, bemail, btwitterid)
-	# 		st.warning("Hi {}! You are registered as a new user".format(bname))
-	# 		st.warning("Please Login to get the latest news articles!")
 
 	elif choice == "Search News":
 		st.subheader("Enter Relevant Details:")
-		# stwitterid = st.text_input("Twitter ID")
-
-		twitter_id = selectbox("Select a Twitter ID", user_list)
-
-		e_metric = selectbox("Select an option", ["Jaccard Coefficient","Binary Weighting Scheme","Raw Count Weighting Scheme", "Term Frequency Weighting Scheme", "Log Normalization Weighting Scheme", "Double Normalization Weighting Scheme"])
-		# if e_metric == "Jaccard Coefficient":
-		# 	st.write('You selected Jaccard Coefficient.')
-		# elif e_metric == "Binary Weighting Scheme":
-		# 	st.write("You selected Binary Weighting Scheme.")
-		# elif e_metric == "Raw Count Weighting Scheme":
-		# 	st.write("You selected Raw Count Weighting Scheme.")
-		# elif e_metric == "Term Frequency Weighting Scheme":
-		# 	st.write("You selected Term Frequency Weighting Scheme.")
-		# elif e_metric == "Log Normalization Weighting Scheme":
-		# 	st.write("You selected Log Normalization Weighting Scheme.")
-		# elif e_metric == "Double Normalization Weighting Scheme":
-		# 	st.write("You selected Double Normalization Weighting Scheme.")
-		
-		# number_news = st.slider('How many news do you want?', 8, 12)
+		twitter_id = selectbox("Select a Twitter ID:", user_list)
+		e_metric = selectbox("Select a Weighting Scheme:", ["Binary Weighting Scheme","Raw Count Weighting Scheme", "Term Frequency Weighting Scheme", "Log Normalization Weighting Scheme", "Double Normalization Weighting Scheme"])
+		kwe_metric = selectbox("Select a Keyword Extraction Method:", ["None","YAKE", "RAKE", "KeyBert"])
 		number_news = st.number_input('How many news articles do you want?', 8,12)
 
 		if st.button("Search"):
 			with st.spinner('Loading News Articles...'):
 				rain(emoji="📰", font_size=45, falling_speed=5, animation_length="1")
-				time.sleep(8)
+				time.sleep(9)
 			
-			qvector = get_query_vector(twitter_id)
-			similarity_matrix = helper_1(e_metric, qvector)
-			top_x_news = recommend_top_10_articles(similarity_matrix, number_news)
+			if(kwe_metric == "None"):
+				qvector = get_query_vector(twitter_id)
+				similarity_matrix = helper_1(e_metric, qvector)
+				top_x_news = recommend_top_10_articles(similarity_matrix, number_news)
+				st.subheader("**Top %d recommended news articles:**" % number_news)
+				for i in range(len(top_x_news)):
+					st.write("%s."%str(i+1), top_x_news[i][2], "[🔗](%s)" % top_x_news[i][1])
 
-			st.subheader("Here are the top %d news articles for you:" % number_news)
-			for i in range(len(top_x_news)):
-				st.write(top_x_news[i][2], "[🔗](%s)" % top_x_news[i][1])
+			else:
+				diction = {"YAKE": 1,"RAKE": 2, "KeyBert":3}
 
-			# temp = get_user_data(twitter_id)
-			# if(temp == -1):
-			# 	st.warning("Invalid Credentials")
-			# else:
-			# 	st.subheader("Here are the latest news articles for you:")
-			# 	news_list = get_news_articles(stwitterid)
-			# 	for i in range(len(news_list)):
-			# 		st.write(news_list[i][0], "[link](%s)" % news_list[i][1])
+				lst1_url, lst1_title, lst2_url, lst2_title = kwe_result(twitter_id, diction[kwe_metric], number_news)
+
+				st.subheader("**Top %d news articles of similar opinion:**" % number_news)
+
+				for ii in range(len(lst1_url)):
+					st.write("%s."%str(ii + 1), lst1_title[ii], "[🔗](%s)" % lst1_url[ii])
+				
+				st.subheader("**Top %d news articles of opposite opinion:**" % number_news)
+				for iii in range(len(lst2_url)):
+					st.write("%s."%str(iii + 1), lst2_title[iii], "[🔗](%s)" % lst2_url[iii])
 
 
 	elif choice == "Creators":

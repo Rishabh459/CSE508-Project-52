@@ -1,30 +1,16 @@
 import tweepy
-import requests
 from rake_nltk import Rake
 from collections import defaultdict
 import json
 import os
+import nltk
 from nltk.corpus import stopwords
+from yake import KeywordExtractor
+import numpy as np
+from keybert import KeyBERT
+from textblob import TextBlob
 import pandas as pd
-
-# Twitter API credentials
-consumer_key = "your_consumer_key"
-consumer_secret = "your_consumer_secret"
-access_token = "your_access_token"
-access_token_secret = "your_access_token_secret"
-
-# News API key
-news_api_key = "your_news_api_key"
-
-# Initialize Twitter API
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
-
-# Get user's p most recent tweets
-def get_tweets(username, p):
-    tweets = api.user_timeline(screen_name=username, count=p)
-    return [tweet.text for tweet in tweets]
+nltk.download('stopwords')
 
 # Extract keywords from tweets
 def extract_keywords(tweets):
@@ -35,12 +21,26 @@ def extract_keywords(tweets):
         keywords.extend(r.get_ranked_phrases())
     return keywords
 
+# use keybert to extract keywords
+def extract_keywords_bert(tweets):
+    model = KeyBERT('distilbert-base-nli-mean-tokens')
+    keywords = []
+    for tweet in tweets:
+        keyword_list = model.extract_keywords(tweet, keyphrase_ngram_range=(1, 1), stop_words='english', top_n=min(12, int(len(tweet.split())/2)))
+        keywords.extend([keyphrase[0] for keyphrase in keyword_list])
+    return keywords
+
+# use YAKE to extract keywords
+def extract_keywords_yake(tweets):
+    keywords = []
+    for tweet in tweets:
+        kw_extractor = KeywordExtractor(lan="en", n=1, top=min(12, int(len(tweet.split())/2)))
+        keywords_yake = kw_extractor.extract_keywords(tweet)
+        keywords.extend([keyphrase[0] for keyphrase in keywords_yake])
+    return keywords
+
 # Get news articles using keywords
 def get_news_articles(keywords):
-    # url = f"https://newsapi.org/v2/everything?q={'+'.join(keywords)}&apiKey={news_api_key}"
-    # response = requests.get(url)
-    # return response.json()["articles"]
-    # load from folder with json files
     news_articles = []
     for filename in os.listdir("News Articles"):
         if filename.endswith(".json"):
@@ -49,29 +49,9 @@ def get_news_articles(keywords):
                 news_articles.extend(news_articles_i['articles'])
     return news_articles
 
-# # Rank articles based on keyword matches
-# def rank_articles(articles, keywords):
-#     ranked_articles = defaultdict(int)
-#     for article in articles:
-#         for keyword in keywords:
-#             ranked_articles[article["url"]] += article["title"].lower().count(keyword.lower())
-#             if article["description"] is not None:
-#                 ranked_articles[article["url"]] += 0.8*article["description"].lower().count(keyword.lower())
-#             if article["content"] is not None:
-#                 ranked_articles[article["url"]] += 0.5*article["content"].lower().count(keyword.lower())
-#             # if keyword.lower() in article["description"].lower():
-#                 # ranked_articles[article["url"]] += 0.8
-#     return sorted(ranked_articles.items(), key=lambda x: x[1], reverse=True)
-
-
-from textblob import TextBlob
-
-# ...
-
+# Rank news articles using keywords
 def rank_articles(articles, keywords):
-    
     ranked_articles = defaultdict(int)
-
     for article in articles:
         title_sentiment = TextBlob(article["title"]).sentiment.polarity
         if article["description"] is not None:
@@ -86,9 +66,9 @@ def rank_articles(articles, keywords):
         sentiment_score = (title_sentiment + 0.8*desc_sentiment) / 1.8
 
         for keyword in keywords:
-            ranked_articles[article["url"]] += sentiment_score * article["title"].lower().count(keyword.lower())
+            ranked_articles[(article["url"], article["title"])] += sentiment_score * article["title"].lower().count(keyword.lower())
             if article["description"] is not None:
-                ranked_articles[article["url"]] += 0.8*sentiment_score*article["description"].lower().count(keyword.lower())
+                ranked_articles[(article["url"], article["title"])] += 0.8*sentiment_score*article["description"].lower().count(keyword.lower())
             # if article["content"] is not None:
             #     ranked_articles[article["url"]] += 0.5*sentiment_score*article["content"].lower().count(keyword.lower())
     return sorted(ranked_articles.items(), key=lambda x: x[1], reverse=True)
@@ -100,53 +80,50 @@ def get_tweetss(username):
     tweets = df['Tweet'].tolist()
     return tweets
 
-
 # Recommend top k articles
-def recommend_articles(username, p, k):
-    diction = {'greta': 'gretaData', 'kohli': 'kohliData', 'pichai': 'pichaiData', 'trump': 'trumpData', 'elon': 'elonData', 'samay': 'samayData'}
+def recommend_articles(username, k, kwe_metric):
+    diction = {'Greta Thunberg': 'gretaData', 'Virat Kohli': 'kohliData', 'Sundar Pichai': 'pichaiData', 'Samay Raina': 'samayData', 'Narendra Modi' : 'modiData'}
     username = diction[username]
     tweets = get_tweetss(username)
+    
     # get tweets polarity cumulative score
     tweets_polarity = 0
     for tweet in tweets:
         tweets_polarity += TextBlob(tweet).sentiment.polarity
     tweets_polarity /= len(tweets)
 
-    keywords = extract_keywords(tweets)
-    articles = get_news_articles(keywords)
-    # print(articlezz)
-    # articles = []
-    # for art in articlezz:
-    #     article = ""
-    #     if art['title'] is not None:
-    #         article += art['title']
-    #     if art['description'] is not None:
-    #         article += art['description']
-    #     if art['content'] is not None:
-    #         article += art['content']
-    #     articles.append(article)
-        
+    # extract keywords
+    if kwe_metric == 1:
+        keywords = extract_keywords_yake(tweets)
+        articles = get_news_articles(keywords)
+    elif kwe_metric == 2:
+        keywords = extract_keywords(tweets)
+        articles = get_news_articles(keywords)
+    elif kwe_metric == 3:
+        keywords = extract_keywords_bert(tweets)
+        articles = get_news_articles(keywords)
+    
     ranked_articles = rank_articles(articles, keywords)
     return (ranked_articles[:k]+ranked_articles[-k:], tweets_polarity)
 
-if __name__ == "__main__":
-    p = 10
-    k = 11
-    username = 'greta'
-    recommended_articles, tweets_polarity = recommend_articles(username, p, k)
-    print("Top", k, "recommended articles of similar opinion:")
+
+def kwe_process(username, kwe_metric, no):
+    
+    recommended_articles, tweets_polarity = recommend_articles(username, no, kwe_metric)
     same_polarity = [article for article in recommended_articles if article[1]*tweets_polarity >= 0]
     opposite_polarity = [article for article in recommended_articles if article[1]*tweets_polarity < 0]
     opposite_polarity.reverse()
-    i = 0
+
+    lst1_urls = []
+    lst1_titles = []
     for article in same_polarity:
-        i+=1
-        print(i, end = ". ")
-        print(article)
-    print()
-    print("Top", k, "recommended articles of contrary opinion:")
-    i = 0
+        lst1_urls.append(article[0][0])
+        lst1_titles.append(article[0][1])
+
+    lst2_urls= []
+    lst2_titles = []
     for article in opposite_polarity:
-        i+=1
-        print(i, end = ". ")
-        print(article)
+        lst2_urls.append(article[0][0])
+        lst2_titles.append(article[0][1])
+    
+    return lst1_urls, lst1_titles, lst2_urls, lst2_titles

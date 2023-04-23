@@ -1,22 +1,9 @@
 import json
 import numpy as np
-import pandas as pd
-import json
-import pandas as pd
-import numpy as np
-# from makeMatrices import *
-# from preprocess import *
+
 from sklearn.metrics.pairwise import cosine_similarity
-
 from makeMatrices import *
-# from makePostings import *
-# from makeTfidf import *
-# import pickle
-# from updateArticles import *
-# from preprocess import *
-# from makeMap import *
-# from preprocessArticles import *
-
+from NRecKW import kwe_process
 
 user_data = []
 
@@ -33,27 +20,6 @@ def get_user_data(sname, stwitterid):
         else:
             return -1
 
-def get_news_articles(stwitterid):
-    with open('business.json', 'r') as f:
-        business = json.load(f)['articles']
-
-    url_list = []
-    article_title = []
-    out_list = []
-    for i in range(len(business)):
-        article_title.append(business[i]['title'])
-        url_list.append(business[i]['url'])
-    
-    # store a list in a list
-    for i in range(len(article_title)):
-        out_list.append([article_title[i], url_list[i]])
-
-    for j in range(len(article_title)):
-        out_list.append([article_title[i], url_list[i]])
-
-    return out_list
-
-
 def get_query_vector(twitter_id):
     query_vector = []
     last_name = (twitter_id.split(" ")[1].lower())
@@ -63,24 +29,16 @@ def get_query_vector(twitter_id):
     return query_vector
 
 def helper_1(option, query_vector):
-    # create_tf()
-    # create_idf_dict(number_of_docs, posting_list)
-
-    # vocab_size = len(json.load(open('idf.json', 'r')))
-    # number_of_docs = len(json.load(open('preprocessed_files.json', 'r')))
     number_of_docs = 1800
     vocab_size = 16976
 
     tf_idf_matrix = np.zeros((number_of_docs, vocab_size))
-
-    # if option == 'Jaccard Coefficient'
     if option == "Binary Weighting Scheme":
         tf_idf_matrix = create_tf_idf_matrix_binary(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
     
     elif option == "Raw Count Weighting Scheme":
         tf_idf_matrix = create_tf_idf_matrix_raw_count(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
 
-    
     elif option == "Term Frequency Weighting Scheme":
         tf_idf_matrix = create_tf_idf_matrix_term_frequency(number_of_docs, json.load(open('tf.json', 'r')), json.load(open('idf.json', 'r')))
         
@@ -105,4 +63,7 @@ def recommend_top_10_articles(similarity_matrix, x):
             lst.append((key,value[0], value[1]))
     return lst
 
-# binary_top_10 = recommend_top_10_articles(double_normalization_similarity_matrix)
+
+def kwe_result(username, kwe_metric, no):
+    lst1_url, lst1_title, lst2_url, lst2_title = kwe_process(username, kwe_metric, no)
+    return lst1_url, lst1_title, lst2_url, lst2_title
