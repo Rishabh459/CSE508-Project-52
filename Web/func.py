@@ -54,14 +54,16 @@ def helper_1(option, query_vector):
 
 # recommend top x articles
 def recommend_top_10_articles(similarity_matrix, x):
-    top_10 = np.argsort(similarity_matrix, axis=0)[-x:][::-1]
-    top_10 = top_10.reshape(x)
+    top_10 = np.argsort(similarity_matrix, axis=0)[-(x+9):][::-1]
+    top_10 = top_10.reshape(x+9)
     maplink = json.load(open('maplink.json', 'r'))
     lst = []
     for i, (key, value) in enumerate(maplink.items()):
         if i in top_10:
-            lst.append((key,value[0], value[1]))
-    return lst
+            if((key,value[0], value[1]) not in lst):
+                lst.append((key,value[0], value[1]))
+    # return top x in lst
+    return lst[x:]
 
 
 def kwe_result(username, kwe_metric, no):
